@@ -1,0 +1,10 @@
+Objectives
+To investigate the injury characteristics and insurance cost of anterior cruciate ligament injuries in sub-elite football players in New South Wales, Australia.
+Design
+Descriptive epidemiological study.
+Methods
+Three years of insurance records (2018–2020) was used to describe anterior cruciate ligament injury costs and characteristics. Concomitant injuries and the mechanism of injury were determined by analysing the injury descriptions. Claim characteristics and costs are presented by age group (junior = 7–17 years, senior = 18–34 years, and veteran = 35 + years) and sex. Categorical data (including age-groups and sex) are presented as counts and percentages and analysed using a Chi squared or Fisher’s exact test. Cost data are reported as means ± standard deviation with 95 % confidence intervals.
+Results
+Over the course of three football seasons (2018–2020), 786 anterior cruciate ligament injuries were reported to the injury insurance company. The total insurance cost was AU$3,614,742 with direct injury insurance costs accounting for 36.3 % of the total costs. The mean indirect insurance costs were six-fold higher than direct insurance costs (AU$11,458 vs AU$1914). Isolated injuries had an average cost of $4466 whilst concomitant injuries had an average cost of $4951. Surgical costs are excluded from direct cost calculations. The peak injury count occurred in the first month of all three football seasons, immediately after the pre-season.
+Conclusions
+Anterior cruciate ligament injuries represent a substantial economic burden to the insurer and individual. The cost data provided can be used for future economic and modelling studies.

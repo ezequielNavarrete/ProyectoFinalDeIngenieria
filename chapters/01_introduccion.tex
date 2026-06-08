@@ -2,12 +2,26 @@
 
 \section{Objetivo}
 
-Completar.
+Desarrollar y diseñar un sistema basado en computer vision y técnicas de machine learning que permita analizar el movimiento del tren inferior en jugadores de fútbol argentino para detectar patrones asociados a riesgo de lesiones por torsión durante entrenamientos. Se analizarán secuencias de video, se implementarán técnicas de estimación de postura y se desarrollará una aplicación web para su utilización.
 
 \section{Alcance}
 
-Completar.
+El sistema se limitará al análisis del movimiento del tren inferior para jugadores mayores de 18 años en el fútbol argentino, enfocándose en la detección de patrones asociados a lesiones por torsión, excluyendo otros tipos de lesiones. Se desarrollará un prototipo funcional accesible mediante una aplicación web orientada a entrenamientos.
+
+El sistema permitirá la carga manual de videos, procesados para integrar técnicas de computer vision y machine learning. Se utilizarán videos controlados o datasets públicos para su validación.
+
+No se contemplará la validación clínica, limitándose a pruebas controladas basadas en la literatura científica.
 
 \section{Descripción}
 
-Completar.
+Las lesiones en el fútbol representan un problema relevante tanto a nivel deportivo como económico, ya que afectan el rendimiento de los jugadores y su disponibilidad dentro de los equipos, además de impactar en el desarrollo de sus carreras \parencite{HagglundEtAl2006}. En particular, las lesiones por torsión en el tren inferior, como las que involucran la rodilla o el tobillo, son frecuentes y suelen estar vinculadas a movimientos mal ejecutados durante acciones como giros, cambios de dirección o frenadas \parencite{BodenSheehan2022}.
+
+A diferencia de otros tipos de lesiones, como los desgarros musculares o situaciones fortuitas propias del juego, este tipo de lesiones presenta patrones de movimiento que pueden ser observados y analizados. Esto abre la posibilidad de aplicar técnicas de visión por computadora para estudiar dichos movimientos a partir de video.
+
+Para realizar este proyecto se va a analizar el movimiento del tren inferior en jugadores de fútbol en Argentina con el fin de identificar patrones asociados a situaciones de riesgo. Para ello, se utilizarán secuencias de video de entrenamientos, a partir de las cuales se aplicarán técnicas de inteligencia artificial y visión por computadora para procesar el movimiento. El sistema se implementará como una aplicación web que permitirá al usuario cargar videos para su análisis, los cuales serán procesados mediante técnicas de estimación de postura, identificando puntos clave del cuerpo como caderas, rodillas y tobillos.
+
+Sobre esta información se aplicarán técnicas de machine learning con el objetivo de detectar patrones asociados a situaciones de riesgo, especialmente aquellas vinculadas a lesiones por torsión. El sistema buscará no solo procesar el movimiento, sino también brindar una respuesta comprensible para el usuario, indicando posibles desviaciones respecto a patrones considerados seguros según la literatura científica.
+
+El desarrollo estará enfocado en la construcción de un prototipo funcional orientado al análisis de entrenamientos, utilizando videos controlados o datasets públicos como SoccerNet \parencite{GiancolaEtAl2018} y SportsPose \parencite{IngwersenEtAl2023}. A diferencia de otras soluciones que requieren equipamiento especializado, este enfoque se basa en el uso de video convencional, lo que permite una mayor accesibilidad.
+
+Por último, el sistema no contará con validación clínica, sino que se limitará a una validación funcional en entornos controlados. El objetivo es que funcione como una herramienta de apoyo para la detección temprana de patrones de riesgo, sin reemplazar el criterio de profesionales del área.
