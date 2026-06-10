@@ -1,8 +1,8 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{\numberline {1}Introducción}{4}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Objetivo}{4}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Alcance}{4}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Descripción}{4}{section.1.3}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Objetivo}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Alcance}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Descripción}{1}{section.1.3}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -11,17 +11,49 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{\numberline {2}Antecedentes}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Marco teórico}{6}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Lesiones deportivas en fútbol}{6}{subsection.2.1.1}%
+\contentsline {chapter}{\numberline {2}Antecedentes}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Marco teórico}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Lesiones deportivas en fútbol}{3}{subsection.2.1.1}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Lesiones en el fútbol profesional argentino}{7}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Lesiones por torsión en el tren inferior}{7}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}Biomecánica del movimiento en fútbol}{7}{subsection.2.1.4}%
-\contentsline {subsection}{\numberline {2.1.5}Prevención de lesiones y análisis del movimiento}{7}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.2}Lesiones en el fútbol profesional argentino}{4}{subsection.2.1.2}%
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Lesiones por torsión en el tren inferior}{5}{subsection.2.1.3}%
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {subsection}{\numberline {2.1.4}Biomecánica del movimiento en el fútbol}{7}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Prevención de lesiones mediante el análisis del movimiento}{7}{subsection.2.1.5}%
 \contentsline {subsection}{\numberline {2.1.6}Inteligencia artificial aplicada al deporte}{7}{subsection.2.1.6}%
 \contentsline {subsection}{\numberline {2.1.7}Visión por computadora}{7}{subsection.2.1.7}%
 \contentsline {subsection}{\numberline {2.1.8}Estimación de postura humana}{7}{subsection.2.1.8}%
@@ -62,7 +94,45 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{Anexo}{10}{chapter*.6}%
-\contentsline {section}{Anexo A: Cronograma de actividades}{11}{appendix*.7}%
-\contentsline {section}{Anexo B: Resultados de la encuesta}{12}{appendix*.8}%
-\contentsline {section}{Anexo C: Transcripción de la entrevista a Richard Feynman}{13}{appendix*.9}%
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Anexo}{11}{chapter*.6}%
+\contentsline {section}{Anexo A: Cronograma de actividades}{12}{appendix*.7}%
+\contentsline {section}{Anexo B: Resultados de la encuesta}{13}{appendix*.8}%
+\contentsline {section}{Anexo C: Transcripción de la entrevista a Richard Feynman}{14}{appendix*.9}%

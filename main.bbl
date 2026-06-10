@@ -19,6 +19,116 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{BaezBanegasEtAl2024}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=26116abbdfbdf3a0f524b03c03fe5b92}{%
+           family={Báez\bibnamedelima Banegas},
+           familyi={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Ariel\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f392e4d4af79083c546c00cd0a108250}{%
+           family={Zarate},
+           familyi={Z\bibinitperiod},
+           given={Lautaro\bibnamedelima N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=860863c562953ea9bf1b1bdcfcb1ffd7}{%
+           family={Hidalgo\bibnamedelima Taha},
+           familyi={H\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Jadiyi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee0fe86ed0b252109c84846995339751}{%
+           family={Cibilis},
+           familyi={C\bibinitperiod},
+           given={Eduardo\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad8459019e048c06af2b5224265390a9}{%
+           family={Semenza},
+           familyi={S\bibinitperiod},
+           given={Amada\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b823a5b8fd2796426725ecdcabfc42e}
+      \strng{fullhash}{9a723108b4e51c18fbf3f1e40a48608e}
+      \strng{fullhashraw}{9a723108b4e51c18fbf3f1e40a48608e}
+      \strng{bibnamehash}{9a723108b4e51c18fbf3f1e40a48608e}
+      \strng{authorbibnamehash}{9a723108b4e51c18fbf3f1e40a48608e}
+      \strng{authornamehash}{5b823a5b8fd2796426725ecdcabfc42e}
+      \strng{authorfullhash}{9a723108b4e51c18fbf3f1e40a48608e}
+      \strng{authorfullhashraw}{9a723108b4e51c18fbf3f1e40a48608e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0326-7083}
+      \field{journaltitle}{Revista de la Facultad de Medicina de la Universidad Nacional del Nordeste}
+      \field{number}{2}
+      \field{title}{Rotura de ligamentos cruzados de jugadores profesionales de futbol argentino: análisis de casos de lesiones en la temporada 2023-2024}
+      \field{volume}{44}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{14\bibrangedash 21}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb http://revista.med.unne.edu.ar/index.php/med/article/view/323
+      \endverb
+      \verb{url}
+      \verb http://revista.med.unne.edu.ar/index.php/med/article/view/323
+      \endverb
+    \endentry
+    \entry{BaldjianEtAl2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=98d1966743f983ed5aba4f902b96dfb2}{%
+           family={Baldjian},
+           familyi={B\bibinitperiod},
+           given={Agustín\bibnamedelima Carlos},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b75d1dcac14fbb277531671a3ba9a15c}{%
+           family={Mohrenberger},
+           familyi={M\bibinitperiod},
+           given={Hernán},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f292418074d295df77afaea0b750591f}{%
+           family={Ciladi},
+           familyi={C\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b1f6414535fd3ee6572b770583b6517}
+      \strng{fullhash}{4ea894e3ce117e486b47d48aa4e52a9e}
+      \strng{fullhashraw}{4ea894e3ce117e486b47d48aa4e52a9e}
+      \strng{bibnamehash}{4ea894e3ce117e486b47d48aa4e52a9e}
+      \strng{authorbibnamehash}{4ea894e3ce117e486b47d48aa4e52a9e}
+      \strng{authornamehash}{3b1f6414535fd3ee6572b770583b6517}
+      \strng{authorfullhash}{4ea894e3ce117e486b47d48aa4e52a9e}
+      \strng{authorfullhashraw}{4ea894e3ce117e486b47d48aa4e52a9e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{AJRPT}}
+      \field{number}{3}
+      \field{title}{Estudio epidemiológico de lesiones en un equipo profesional de fútbol en Argentina. Estudio observacional retrospectivo a 2 años}
+      \field{volume}{4}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{23\bibrangedash 31}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.58172/ajrpt.v4i3.213
+      \endverb
+    \endentry
     \entry{BodenSheehan2022}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d3c2df1c087967d2b23f98538a7cfa61}{%
@@ -53,6 +163,7 @@
       \field{title}{Mechanism of Non-Contact {ACL} Injury}
       \field{volume}{40}
       \field{year}{2022}
+      \field{dateera}{ce}
       \field{pages}{531\bibrangedash 540}
       \range{pages}{10}
     \endentry
@@ -100,6 +211,7 @@
       \field{booktitle}{Proceedings of the {IEEE/CVF} Conference on Computer Vision and Pattern Recognition Workshops ({CVPRW})}
       \field{title}{{SoccerNet}: A Scalable Dataset for Action Spotting in Soccer Videos}
       \field{year}{2018}
+      \field{dateera}{ce}
       \field{pages}{1792\bibrangedash 1792}
       \range{pages}{1}
     \endentry
@@ -143,6 +255,7 @@
       \field{title}{Previous Injury as a Risk Factor for Injury in Elite Football: A Prospective Study Over Two Consecutive Seasons}
       \field{volume}{40}
       \field{year}{2006}
+      \field{dateera}{ce}
       \field{pages}{767\bibrangedash 772}
       \range{pages}{6}
     \endentry
@@ -196,9 +309,113 @@
       \field{booktitle}{Proceedings of the {IEEE/CVF} International Workshop on Computer Vision in Sports}
       \field{title}{{SportsPose}: A Dynamic {3D} Sports Pose Dataset}
       \field{year}{2023}
+      \field{dateera}{ce}
       \verb{doi}
       \verb 10.1109/CVPRW59228.2023.00550
       \endverb
+    \endentry
+    \entry{MakkiEtAl2022}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=fef16119d39033664693fbdf84477b9e}{%
+           family={Makki},
+           familyi={M\bibinitperiod},
+           given={Abdul\bibnamedelimb Rehman\bibnamedelima Khalid},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=821d37a55b166dd2b3a6fefc03ca8753}{%
+           family={Tahir},
+           familyi={T\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1341aa80c8f301b08a5bbd762794ce94}{%
+           family={Amin},
+           familyi={A\bibinitperiod},
+           given={Umer},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6173ead158d06b96ef9f89720898429e}{%
+           family={Bin\bibnamedelima Tabassum},
+           familyi={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Muhammad\bibnamedelima Maaz},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c378366299838d94c473006c9851e83}{%
+           family={Tahir},
+           familyi={T\bibinitperiod},
+           given={Fazeela},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b45ba660e560441e928e5e08eab09c9b}{%
+           family={Kamran},
+           familyi={K\bibinitperiod},
+           given={Madiha},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0a7fc1da0c3924ca1f6ff7a80ffb444}
+      \strng{fullhash}{bec1a6a96d35807f016d37e4feca783f}
+      \strng{fullhashraw}{bec1a6a96d35807f016d37e4feca783f}
+      \strng{bibnamehash}{bec1a6a96d35807f016d37e4feca783f}
+      \strng{authorbibnamehash}{bec1a6a96d35807f016d37e4feca783f}
+      \strng{authornamehash}{e0a7fc1da0c3924ca1f6ff7a80ffb444}
+      \strng{authorfullhash}{bec1a6a96d35807f016d37e4feca783f}
+      \strng{authorfullhashraw}{bec1a6a96d35807f016d37e4feca783f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Healer Journal of Physiotherapy and Rehabilitation Sciences}
+      \field{number}{3}
+      \field{title}{Mechanism of Meniscal Injury and its Impact on Performance in Athletes}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{2}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{232\bibrangedash 237}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb https://thehealerjournal.com/index.php/templates/article/view/98
+      \endverb
+      \verb{url}
+      \verb https://thehealerjournal.com/index.php/templates/article/view/98
+      \endverb
+    \endentry
+    \entry{ObservatorioSocialDeporte2023}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcb5e8e50a451265bb876f37ed6adc41}{%
+           family={{Observatorio Social del Deporte}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ministerio de Turismo y Deportes; Escuela {IDAES}, Universidad Nacional de San Martín}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \strng{namehash}{dcb5e8e50a451265bb876f37ed6adc41}
+      \strng{fullhash}{dcb5e8e50a451265bb876f37ed6adc41}
+      \strng{fullhashraw}{dcb5e8e50a451265bb876f37ed6adc41}
+      \strng{bibnamehash}{dcb5e8e50a451265bb876f37ed6adc41}
+      \strng{authorbibnamehash}{dcb5e8e50a451265bb876f37ed6adc41}
+      \strng{authornamehash}{dcb5e8e50a451265bb876f37ed6adc41}
+      \strng{authorfullhash}{dcb5e8e50a451265bb876f37ed6adc41}
+      \strng{authorfullhashraw}{dcb5e8e50a451265bb876f37ed6adc41}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encuesta Nacional sobre Actividad Física y Deporte 2023}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \field{dateera}{ce}
     \endentry
     \entry{PfirrmannEtAl2016}{article}{}{}
       \name{author}{5}{}{%
@@ -252,6 +469,7 @@
       \field{title}{Analysis of Injury Incidences in Male Professional Adult and Elite Youth Soccer Players: A Systematic Review}
       \field{volume}{51}
       \field{year}{2016}
+      \field{dateera}{ce}
       \field{pages}{410\bibrangedash 424}
       \range{pages}{15}
       \verb{doi}
@@ -304,10 +522,112 @@
       \field{title}{Insurance Cost and Injury Characteristics of Anterior Cruciate Ligament Injuries in Sub-Elite Football: A Population Analysis Involving 3 Years of Australian Insurance Data}
       \field{volume}{26}
       \field{year}{2023}
+      \field{dateera}{ce}
       \field{pages}{365\bibrangedash 371}
       \range{pages}{7}
       \verb{doi}
       \verb 10.1016/j.jsams.2023.06.003
+      \endverb
+    \endentry
+    \entry{SanchezHernandezEtAl2016}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8f95bf3a693ed58b35f2f0110a2c05be}{%
+           family={Sánchez\bibnamedelima Hernández},
+           familyi={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Elsa\bibnamedelima Viridiana},
+           giveni={E\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fac34cc79395036a433b21f8715fc891}{%
+           family={De\bibnamedelima Loera\bibnamedelima Rodríguez},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={César\bibnamedelima Octavio},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48549bed59cebb3b57383628b4f8a774}{%
+           family={Cobar\bibnamedelima Bustamante},
+           familyi={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Andrés\bibnamedelima Enrique},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea6e60cea948472e6fd399a6d9bda190}{%
+           family={Martín\bibnamedelima Oliva},
+           familyi={M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cfc181e5123b14b61c7402d691ec1f07}
+      \strng{fullhash}{91b5599740ad5819c5c212fdab5df85a}
+      \strng{fullhashraw}{91b5599740ad5819c5c212fdab5df85a}
+      \strng{bibnamehash}{91b5599740ad5819c5c212fdab5df85a}
+      \strng{authorbibnamehash}{91b5599740ad5819c5c212fdab5df85a}
+      \strng{authornamehash}{cfc181e5123b14b61c7402d691ec1f07}
+      \strng{authorfullhash}{91b5599740ad5819c5c212fdab5df85a}
+      \strng{authorfullhashraw}{91b5599740ad5819c5c212fdab5df85a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ortho-tips}
+      \field{number}{1}
+      \field{title}{Biomecánica funcional del pie y tobillo: comprendiendo las lesiones en el deportista}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{12}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{6\bibrangedash 11}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb https://www.medigraphic.com/cgi-bin/new/resumen.cgi?IDARTICULO=65320
+      \endverb
+      \verb{url}
+      \verb https://www.medigraphic.com/cgi-bin/new/resumen.cgi?IDARTICULO=65320
+      \endverb
+    \endentry
+    \entry{ShimokochiShultz2008}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fdaeae1a05f85710cfc18b8afb7fc504}{%
+           family={Shimokochi},
+           familyi={S\bibinitperiod},
+           given={Yohei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8730f7787b3fb7e51dc5ddb812c1ca0}{%
+           family={Shultz},
+           familyi={S\bibinitperiod},
+           given={Sandra\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{14de23e8a16b459dea0c2d25d0b465d1}
+      \strng{fullhash}{0462e827acaac1125b183fae8a78e322}
+      \strng{fullhashraw}{0462e827acaac1125b183fae8a78e322}
+      \strng{bibnamehash}{0462e827acaac1125b183fae8a78e322}
+      \strng{authorbibnamehash}{0462e827acaac1125b183fae8a78e322}
+      \strng{authornamehash}{14de23e8a16b459dea0c2d25d0b465d1}
+      \strng{authorfullhash}{0462e827acaac1125b183fae8a78e322}
+      \strng{authorfullhashraw}{0462e827acaac1125b183fae8a78e322}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Athletic Training}
+      \field{number}{4}
+      \field{title}{Mechanisms of Noncontact Anterior Cruciate Ligament Injury}
+      \field{volume}{43}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{396\bibrangedash 408}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.4085/1062-6050-43.4.396
       \endverb
     \endentry
   \enddatalist

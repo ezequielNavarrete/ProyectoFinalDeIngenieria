@@ -55,7 +55,7 @@
 % \parbox[b] es para poner texto sobre el bottom
 \newpagestyle{ruled}{
 	\sethead{\includegraphics[width=3.7cm]{./images/UADE_LARGE}}
-			{\parbox[b]{0.43\textwidth}{\raggedright\MakeUppercase{Título de la PFI}}} % El parámetro 0.43 puede modificarse para tener más espacio en la columan del medio, y que así el título de la tesis entre mejor.
+			{\parbox[b]{0.43\textwidth}{\raggedright\MakeUppercase{Título de la PFI}}}
 			{
 				\raisebox{1.5ex}{%
 					\parbox[b]{0.26\textwidth}{\raggedleft
@@ -66,11 +66,8 @@
 				}
 			}\headrule{}
 	\setfoot[][][P\'agina \thepage\ de~\pageref*{LastPage}]{}{}{P\'agina \thepage\ de~\pageref*{LastPage}}\footrule{}
-	}
+}
 \pagestyle{ruled}
-% Cambiar el color de la linea divisora:
-% \renewcommand\makeheadrule{\color{cyan}\rule[-.3\baselineskip]{\linewidth}{0.4pt}}
-% \renewcommand\makefootrule{\color{cyan}\rule[\baselineskip]{\linewidth}{0.4pt}}
 
 % Para que la primera página de cada capítulo no sea tratada como especial
 \makeatletter
@@ -79,45 +76,21 @@
 
 % M\'argenes
 \usepackage{vmargin}
-%\setmarginsrb{leftmargin}{topmargin}{rightmargin}{bottommargin}%
-%         {headheight}{headsep}{footheight}{footskip}           %
-%Lo ideal ser\'{\i}a lo siguiente
-%\setmarginsrb{2.7cm}{4cm}{2.3cm}{2.5cm}{2cm}{0.5cm}{2cm}{0.5cm}
-%Pero estos valores se suman, por lo que en realidad ir\'{\i}a asi:
 \setmarginsrb{2.7cm}{2cm}{2.3cm}{1.5cm}{0cm}{2cm}{0cm}{1cm}
-% M\'argenes, pero otra opci\'on mas acotada
-% \usepackage[top=4cm,bottom=2.5cm,left=2.7cm,right=2.3cm]{geometry}
-
-% Seccionado. El par\'ametro left incrementa el margen, lo setteo en 0.
-%\titlespacing*{<command>}{<left>}{<before-sep>}{<after-sep>}
-% \titlespacing{\section}{0pt}{12pt}{6pt}
-%\titlespacing{\subsection}{0pt}{*0}{*0}
-%\titlespacing{\subsubsection}{0pt}{*0}{*0}
-
-%Tama\~no de letra de cap\'{\i}tulo y secciones
-%\newcommand{\chapfnt}{\fontsize{16}{19}}
-%\newcommand{\secfnt}{\fontsize{14}{17}}
-%\newcommand{\ssecfnt}{\fontsize{12}{14}}
-%\titleformat{\chapter}[display]
-%{\normalfont\chapfnt\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\chapfnt}
-%\titleformat{\section}
-%{\normalfont\secfnt\bfseries}{\thesection}{1em}{}
-%\titleformat{\subsection}
-%{\normalfont\ssecfnt\bfseries}{\thesubsection}{1em}{}
 
 % Se pide numeraci\'on de tablas en n\'umeros romanos
 \renewcommand{\thetable}{\thechapter.\Roman{table}}
 
-%Espaciado antes y despu\'es de una figura respecto del texto
+% Espaciado antes y despu\'es de una figura respecto del texto
 \setlength{\textfloatsep}{5pt}
 
 % Para notas
 \usepackage{todonotes}
-\setlength{\marginparwidth}{2cm} % El margen es muy estrecho. Esto es solo para solucionar un warning
+\setlength{\marginparwidth}{2cm}
 \newcommand{\Nico}[1]{\todo[color=green!30,inline]{\textbf{Nico:} #1}}
 \newcommand{\Fermat}[1]{\todo[color=green!30]{\textbf{Fermat:} #1}}
 
-%Espaciado entre referencias en la bibliograf\'{\i}a
+% Espaciado entre referencias en la bibliograf\'{\i}a
 \usepackage{etoolbox}
 \patchcmd{\thebibliography}
   {\settowidth}
@@ -127,7 +100,6 @@
   {\small}
   {}{}
 
-\usepackage{pdfcomment}
 \usepackage[spanish,es-nodecimaldot]{babel}
 \usepackage{csquotes}
 \addto\captionsspanish{
@@ -139,7 +111,7 @@
 
 % Para que el primer parrafo de un cap\'{\i}tulo tenga identado.
 \usepackage{indentfirst}
-\setlength{\parindent}{36pt} %Tama\~no de la identaci\'on.
+\setlength{\parindent}{36pt}
 
 % Para tablas complejas
 \usepackage{multicol,multirow}
@@ -150,7 +122,7 @@
 
 \usepackage{amsmath,amsfonts,amssymb,amsthm}
 
-\allowdisplaybreaks{} % Para que el align permita dividir entre p\'aginas si lo llega a necesitar.
+\allowdisplaybreaks{}
 
 \usepackage{cancel}
 
@@ -219,13 +191,18 @@
 \setlength{\cftbeforelottitleskip}{12pt}
 \setlength{\cftafterlottitleskip}{6pt}
 
+% IMPORTANTE: En la entrega final de UADE se debe dejar sin color.
+% Para trabajar:
+\usepackage[
+	colorlinks=true,
+	citecolor=red,
+	linkcolor=red,
+	urlcolor=blue
+]{hyperref}
 
-% IMPORTANTE: En la entrega final de UADE se debe dejar sin color. Usar el bloque comentado a continuación y comentar el bloque activo.
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks,
-    citecolor=red
-}
+% pdfcomment debe ir después de hyperref para evitar problemas con enlaces internos.
+\usepackage{pdfcomment}
+
 % Para la entrega final:
 %\usepackage[hidelinks]{hyperref}
 %\hypersetup{
@@ -241,37 +218,59 @@
 }
 
 \begin{document}
+
+% Se desactivan los anchors solo para la portada PDF externa.
+% Esto evita que los enlaces internos apunten por error a la portada.
+\hypersetup{pageanchor=false}
+
 \clearpage
 \thispagestyle{empty}
 \includepdf[
   pages=1,
-  scale=1.01, %1.17
+  scale=1.01,
   offset=25mm -25mm,
   pagecommand={\thispagestyle{empty}},
   noautoscale,
   trim=0 0 0 0,
   clip
 ]{cover/portadaPFI.pdf}
+
 \clearpage
-	\input{chapters/title}
-	%\input{chapters/acknowledgments}
-	\newpage
-	\input{chapters/summary}
-	\newpage
-	\input{chapters/abstract}
-	\newpage
-	\tableofcontents
-	\input{chapters/01_introduccion}
-	\input{chapters/02_antecedentes}
-	\input{chapters/conclusion}
 
-	\addcontentsline{toc}{chapter}{Bibliograf\'{\i}a}
-	\printbibliography{}
+\input{chapters/title}
+%\input{chapters/acknowledgments}
 
-	\appendix
-	\input{chapters/appendix/annex}
-	\newpage
-	\listoffigures
-	\newpage
-	\listoftables
+\newpage
+\input{chapters/summary}
+
+\newpage
+\input{chapters/abstract}
+
+\newpage
+\tableofcontents
+
+\clearpage
+
+% A partir de acá se activan los enlaces internos del documento.
+\hypersetup{pageanchor=true}
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\input{chapters/01_introduccion}
+\input{chapters/02_antecedentes}
+\input{chapters/conclusion}
+
+\addcontentsline{toc}{chapter}{Bibliograf\'{\i}a}
+\printbibliography{}
+
+\appendix
+\input{chapters/appendix/annex}
+
+\newpage
+\listoffigures
+
+\newpage
+\listoftables
+
 \end{document}
