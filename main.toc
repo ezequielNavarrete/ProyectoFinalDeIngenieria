@@ -135,4 +135,6 @@
 \contentsline {chapter}{Anexo}{11}{chapter*.6}%
 \contentsline {section}{Anexo A: Cronograma de actividades}{12}{appendix*.7}%
 \contentsline {section}{Anexo B: Resultados de la encuesta}{13}{appendix*.8}%
-\contentsline {section}{Anexo C: Transcripción de la entrevista a Richard Feynman}{14}{appendix*.9}%
+\contentsline {section}{Anexo C: Transcripción de la entrevista a Sebastián López}{14}{appendix*.9}%
+\contentsline {section}{Anexo D: Transcripción de la entrevista a Leonardo Lemos}{18}{appendix*.10}%
+\contentsline {section}{Anexo E: Transcripción de la entrevista a Gonzalo Pereyra Metnyk}{22}{appendix*.11}%

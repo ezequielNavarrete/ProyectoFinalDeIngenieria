@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1781069436.98189 "main.bcf" "main.bbl" "main" 1781069446.54598 0
+["biber main"] 1781069436.98189 "main.bcf" "main.bbl" "main" 1781152679.56586 0
   "biblio.bib" 1781069436.72149 5820 70804ce149a6adcde72552e1b9d4f4a0 ""
-  "main.bcf" 1781069446.35414 110962 e1a67ead3fe9c8076f86562148ada254 "pdflatex"
+  "main.bcf" 1781152679.37272 110962 e1a67ead3fe9c8076f86562148ada254 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1781069443.47047 "/Users/ezequielnavarrete/Documents/ProyectoFinalDeIngenieria/main.tex" "main.pdf" "main" 1781069446.54625 0
+["pdflatex"] 1781152676.46445 "/Users/ezequielnavarrete/Documents/ProyectoFinalDeIngenieria/main.tex" "main.pdf" "main" 1781152679.56613 0
   "/Users/ezequielnavarrete/Documents/ProyectoFinalDeIngenieria/main.tex" 1780978671.73908 7581 59f401f7e4e0b9dd321b444c8e9fad9f ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
@@ -286,7 +286,7 @@
   "chapters/02_antecedentes.tex" 1781069337.46177 12366 6e07d274fe55756aecd4da15d9e2fb34 ""
   "chapters/abstract.tex" 1781069337.46176 108 64c27ee8d840a89908cce862d8a59950 ""
   "chapters/appendix/annex.tex" 1780320597.75715 843 9c4c1cb8ba46aa204b6f970daac78edd ""
-  "chapters/appendix/interviews.tex" 1780278669.09694 2126 8d80ecfe0230ea1e43a8c75b9279346c ""
+  "chapters/appendix/interviews.tex" 1781152672.29766 38471 cf30280813eaa7f7e3a6cbeb08835faa ""
   "chapters/appendix/schedule_of_activities.tex" 1780541192.56525 433 a9c4fad7c9607bb8e465af5134bef475 ""
   "chapters/appendix/surveys.tex" 1780278669.09918 362 38fc99512e952a883be6284b9a665725 ""
   "chapters/conclusion.tex" 1780278644.55593 163 6d31548d00c81d29b6bf18f81c36d56b ""
@@ -298,16 +298,16 @@
   "images/UADE.png" 1780277847.27181 54722 8c03dbb19965d8d3343cc67c8e2d5ef3 ""
   "images/UADE_LARGE.png" 1780277847.27378 54722 8c03dbb19965d8d3343cc67c8e2d5ef3 ""
   "images/movimiento_tibia_antepie.png" 1781067719.52355 215221 a31a9c0eecbe34183ef7109db0992f83 ""
-  "main.aux" 1781069446.20155 10142 2ce4eec84b707c46c23c5cace5943812 "pdflatex"
+  "main.aux" 1781152679.22104 10445 a85da8d65ba879899d337e23abd96433 "pdflatex"
   "main.bbl" 1781069440.09844 26977 3f44b3f3effc59b8de4e60346fa4fc46 "biber main"
-  "main.lof" 1781069446.35533 3703 4afe78f3dd21be8955269e3e4a29539d "pdflatex"
-  "main.lot" 1781069446.35536 3640 031b2b802a1d149f84f4c8f692a6746b "pdflatex"
-  "main.out" 1781069446.34985 4503 925ff5ed86efbb133c86f884241a0e8e "pdflatex"
-  "main.run.xml" 1781069446.35517 2453 c530d4d57c8e48664f5a02483046aedb "pdflatex"
+  "main.lof" 1781152679.37368 3703 4afe78f3dd21be8955269e3e4a29539d "pdflatex"
+  "main.lot" 1781152679.37371 3640 031b2b802a1d149f84f4c8f692a6746b "pdflatex"
+  "main.out" 1781152679.36931 5280 630d4e5e38568e67c2c3dbd0a8071c51 "pdflatex"
+  "main.run.xml" 1781152679.37356 2453 c530d4d57c8e48664f5a02483046aedb "pdflatex"
   "main.tex" 1780978671.73908 7581 59f401f7e4e0b9dd321b444c8e9fad9f ""
-  "main.toc" 1781069446.35528 5447 cd4a9de81f36333afe0d1aae504608a5 "pdflatex"
-  "main.upa" 1781069444.75169 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.upb" 1781069446.34797 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.toc" 1781152679.37365 5661 f145e5021571e8710eb7f83973cf6b18 "pdflatex"
+  "main.upa" 1781152677.76239 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.upb" 1781152679.36858 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "tables/deportes_practicados.tex" 1780973082.00412 504 7b3039ee9cbb0e94e76a7c1847b299b6 ""
   (generated)
   "main.aux"
