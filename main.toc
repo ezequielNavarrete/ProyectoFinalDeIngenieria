@@ -53,15 +53,6 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \contentsline {subsection}{\numberline {2.1.4}Biomecánica del movimiento en el fútbol}{7}{subsection.2.1.4}%
-\contentsline {subsection}{\numberline {2.1.5}Prevención de lesiones mediante el análisis del movimiento}{7}{subsection.2.1.5}%
-\contentsline {subsection}{\numberline {2.1.6}Inteligencia artificial aplicada al deporte}{7}{subsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.1.7}Visión por computadora}{7}{subsection.2.1.7}%
-\contentsline {subsection}{\numberline {2.1.8}Estimación de postura humana}{7}{subsection.2.1.8}%
-\contentsline {subsection}{\numberline {2.1.9}Machine learning aplicado al análisis de movimiento}{8}{subsection.2.1.9}%
-\contentsline {chapter}{\numberline {3}Conclusi\'on}{9}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Resumen de aportes}{9}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Trabajo futuro}{9}{section.3.2}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{9}{section*.5}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -74,6 +65,15 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\contentsline {subsection}{\numberline {2.1.5}Prevención de lesiones mediante el análisis del movimiento}{8}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Inteligencia artificial aplicada al deporte}{9}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Visión por computadora}{9}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Estimación de postura humana}{9}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.9}Machine learning aplicado al análisis de movimiento}{9}{subsection.2.1.9}%
+\contentsline {chapter}{\numberline {3}Conclusi\'on}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Resumen de aportes}{10}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Trabajo futuro}{10}{section.3.2}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{10}{section*.5}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -132,9 +132,37 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{Anexo}{11}{chapter*.6}%
-\contentsline {section}{Anexo A: Cronograma de actividades}{12}{appendix*.7}%
-\contentsline {section}{Anexo B: Resultados de la encuesta}{13}{appendix*.8}%
-\contentsline {section}{Anexo C: Transcripción de la entrevista a Sebastián López}{14}{appendix*.9}%
-\contentsline {section}{Anexo D: Transcripción de la entrevista a Leonardo Lemos}{18}{appendix*.10}%
-\contentsline {section}{Anexo E: Transcripción de la entrevista a Gonzalo Pereyra Metnyk}{22}{appendix*.11}%
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Anexo}{12}{chapter*.6}%
+\contentsline {section}{Anexo A: Cronograma de actividades}{13}{appendix*.7}%
+\contentsline {section}{Anexo B: Resultados de la encuesta}{14}{appendix*.8}%
+\contentsline {section}{Anexo C: Transcripción de la entrevista a Sebastián López}{15}{appendix*.9}%
+\contentsline {section}{Anexo D: Transcripción de la entrevista a Leonardo Lemos}{19}{appendix*.10}%
+\contentsline {section}{Anexo E: Transcripción de la entrevista a Gonzalo Pereyra Metnyk}{23}{appendix*.11}%
