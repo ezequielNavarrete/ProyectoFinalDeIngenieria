@@ -52,6 +52,8 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
 \contentsline {subsection}{\numberline {2.1.4}Biomecánica del movimiento en el fútbol}{7}{subsection.2.1.4}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -66,14 +68,6 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \contentsline {subsection}{\numberline {2.1.5}Prevención de lesiones mediante el análisis del movimiento}{8}{subsection.2.1.5}%
-\contentsline {subsection}{\numberline {2.1.6}Inteligencia artificial aplicada al deporte}{9}{subsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.1.7}Visión por computadora}{9}{subsection.2.1.7}%
-\contentsline {subsection}{\numberline {2.1.8}Estimación de postura humana}{9}{subsection.2.1.8}%
-\contentsline {subsection}{\numberline {2.1.9}Machine learning aplicado al análisis de movimiento}{9}{subsection.2.1.9}%
-\contentsline {chapter}{\numberline {3}Conclusi\'on}{10}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Resumen de aportes}{10}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Trabajo futuro}{10}{section.3.2}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{10}{section*.5}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -96,6 +90,14 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\contentsline {subsection}{\numberline {2.1.6}Inteligencia artificial aplicada al deporte}{12}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Visión por computadora}{12}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Estimación de postura humana}{12}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.9}Machine learning aplicado al análisis de movimiento}{13}{subsection.2.1.9}%
+\contentsline {chapter}{\numberline {3}Conclusi\'on}{14}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Resumen de aportes}{14}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Trabajo futuro}{14}{section.3.2}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{14}{section*.7}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -160,9 +162,65 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{Anexo}{12}{chapter*.6}%
-\contentsline {section}{Anexo A: Cronograma de actividades}{13}{appendix*.7}%
-\contentsline {section}{Anexo B: Resultados de la encuesta}{14}{appendix*.8}%
-\contentsline {section}{Anexo C: Transcripción de la entrevista a Sebastián López}{15}{appendix*.9}%
-\contentsline {section}{Anexo D: Transcripción de la entrevista a Leonardo Lemos}{19}{appendix*.10}%
-\contentsline {section}{Anexo E: Transcripción de la entrevista a Gonzalo Pereyra Metnyk}{23}{appendix*.11}%
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Anexo}{17}{chapter*.8}%
+\contentsline {section}{Anexo A: Cronograma de actividades}{18}{appendix*.9}%
+\contentsline {section}{Anexo B: Resultados de la encuesta}{19}{appendix*.10}%
+\contentsline {section}{Anexo C: Transcripción de la entrevista a Sebastián López}{20}{appendix*.11}%
+\contentsline {section}{Anexo D: Transcripción de la entrevista a Leonardo Lemos}{24}{appendix*.12}%
+\contentsline {section}{Anexo E: Transcripción de la entrevista a Gonzalo Pereyra Metnyk}{28}{appendix*.13}%
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 

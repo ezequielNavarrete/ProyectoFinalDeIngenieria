@@ -2407,21 +2407,36 @@
     <bcf:citekey order="11" intorder="1">ShimokochiShultz2008</bcf:citekey>
     <bcf:citekey order="12" intorder="1">SanchezHernandezEtAl2016</bcf:citekey>
     <bcf:citekey order="13" intorder="1">SanchezHernandezEtAl2016</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">ShimokochiShultz2008</bcf:citekey>
-    <bcf:citekey order="14" intorder="2">MakkiEtAl2022</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">BodenSheehan2022</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">SanchezHernandezEtAl2016</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">SanchezHernandezEtAl2016</bcf:citekey>
     <bcf:citekey order="16" intorder="1">ShimokochiShultz2008</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">ShimokochiShultz2008</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">BodenSheehan2022</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">MakkiEtAl2022</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">SanchezHernandezEtAl2016</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">ShimokochiShultz2008</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">PlakiasEtAl2024</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">CossioBolanosArruda2009</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">SanchezHernandezEtAl2016</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">PlakiasEtAl2024</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">ManolopoulosEtAl2013</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">CossioBolanosArruda2009</bcf:citekey>
+    <bcf:citekey order="16" intorder="2">MakkiEtAl2022</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">BodenSheehan2022</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">ShimokochiShultz2008</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">ShimokochiShultz2008</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">BodenSheehan2022</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">MakkiEtAl2022</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">SanchezHernandezEtAl2016</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">ShimokochiShultz2008</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">PlakiasEtAl2024</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">CossioBolanosArruda2009</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">SanchezHernandezEtAl2016</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">PlakiasEtAl2024</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">ManolopoulosEtAl2013</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">CossioBolanosArruda2009</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">DellaVillaEtAl2020</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">DellaVillaEtAl2020</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">BuckthorpeEtAl2024ACL</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">BuckthorpeEtAl2024ACL</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">DellaVillaEtAl2020</bcf:citekey>
+    <bcf:citekey order="34" intorder="2">BuckthorpeEtAl2024ACL</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">BuckthorpeEtAl2024ACL</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">BuckthorpeEtAl2025Ankle</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">DellaVillaEtAl2020</bcf:citekey>
+    <bcf:citekey order="37" intorder="2">BuckthorpeEtAl2024ACL</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">HewettEtAl2005</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">HewettEtAl2005</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">SmithHanlon2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

@@ -167,6 +167,130 @@
       \field{pages}{531\bibrangedash 540}
       \range{pages}{10}
     \endentry
+    \entry{BuckthorpeEtAl2024ACL}{article}{}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=5fe4ac9a566ac08524a86b0fa5404d62}{%
+           family={Buckthorpe},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f33ffd5bb6c349ef839dd0b81b8c2ba6}{%
+           family={Pirli\bibnamedelima Capitani},
+           familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0263091c9f63c7676ecd62802991b8fd}{%
+           family={Olivares-Jabalera},
+           familyi={O\bibinithyphendelim J\bibinitperiod},
+           given={Jesus},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bda9ea2fb301c6b30fce9d83c09ddbf4}{%
+           family={Olmo},
+           familyi={O\bibinitperiod},
+           given={Jesus},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3effba78c2ae6ba16094bc7527d8cf2c}{%
+           family={Della\bibnamedelima Villa},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b4d70c29b28bb2789d68f4fc3436dc4}
+      \strng{fullhash}{90869862e2bfd0433013c34679b034d9}
+      \strng{fullhashraw}{90869862e2bfd0433013c34679b034d9}
+      \strng{bibnamehash}{90869862e2bfd0433013c34679b034d9}
+      \strng{authorbibnamehash}{90869862e2bfd0433013c34679b034d9}
+      \strng{authornamehash}{5b4d70c29b28bb2789d68f4fc3436dc4}
+      \strng{authorfullhash}{90869862e2bfd0433013c34679b034d9}
+      \strng{authorfullhashraw}{90869862e2bfd0433013c34679b034d9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{BMJ} Open Sport \& Exercise Medicine}
+      \field{number}{3}
+      \field{title}{Systematic Video Analysis of {ACL} Injuries in Professional Spanish Male Football (Soccer): Injury Mechanisms, Situational Patterns, Biomechanics and Neurocognitive Errors: A Study on 115 Consecutive Cases}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{e002149}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmjsem-2024-002149
+      \endverb
+    \endentry
+    \entry{BuckthorpeEtAl2025Ankle}{article}{}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=5fe4ac9a566ac08524a86b0fa5404d62}{%
+           family={Buckthorpe},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=864017d6f259a3d4173e63305e8fe15f}{%
+           family={Verhagen},
+           familyi={V\bibinitperiod},
+           given={Evert},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3bfd9086f242ac2c8a0a1ff7686b8f6}{%
+           family={D'Hooghe},
+           familyi={D\bibinitperiod},
+           given={Pieter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f94099f9e66093bb86d591524b868cae}{%
+           family={Osti},
+           familyi={O\bibinitperiod},
+           given={Leonardo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbf119f59aacf075e71ad59c0d530533}{%
+           family={Di\bibnamedelima Paolo},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3effba78c2ae6ba16094bc7527d8cf2c}{%
+           family={Della\bibnamedelima Villa},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{08dbd1d974c0bf269ecde3419105a0ac}
+      \strng{fullhash}{bb681bb6784de1c30bbccb4e50a07d67}
+      \strng{fullhashraw}{bb681bb6784de1c30bbccb4e50a07d67}
+      \strng{bibnamehash}{bb681bb6784de1c30bbccb4e50a07d67}
+      \strng{authorbibnamehash}{bb681bb6784de1c30bbccb4e50a07d67}
+      \strng{authornamehash}{08dbd1d974c0bf269ecde3419105a0ac}
+      \strng{authorfullhash}{bb681bb6784de1c30bbccb4e50a07d67}
+      \strng{authorfullhashraw}{bb681bb6784de1c30bbccb4e50a07d67}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Knee Surgery, Sports Traumatology, Arthroscopy}
+      \field{number}{11}
+      \field{title}{Systematic Video Analysis of Ankle Sprain Injuries in Elite Male Football (Soccer): Injury Mechanisms, Situational Patterns, Biomechanics and Neurocognitive Errors Study: A Study on 140 Consecutive Players}
+      \field{volume}{33}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{4035\bibrangedash 4049}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1002/ksa.70049
+      \endverb
+    \endentry
     \entry{CossioBolanosArruda2009}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=3baaf30b469243fafc575f2049b2ae5f}{%
@@ -204,6 +328,77 @@
       \field{dateera}{ce}
       \field{pages}{45\bibrangedash 53}
       \range{pages}{9}
+    \endentry
+    \entry{DellaVillaEtAl2020}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=3effba78c2ae6ba16094bc7527d8cf2c}{%
+           family={Della\bibnamedelima Villa},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fe4ac9a566ac08524a86b0fa5404d62}{%
+           family={Buckthorpe},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ca6d1b0370a1918a976150e1e39eb05}{%
+           family={Grassi},
+           familyi={G\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da32b8b0283e8d9052781397245680e5}{%
+           family={Nabiuzzi},
+           familyi={N\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8677e8f2d4a7164430b2950b45d8a3d8}{%
+           family={Tosarelli},
+           familyi={T\bibinitperiod},
+           given={Filippo},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aabe61943941001e91e32c6b96dd788}{%
+           family={Zaffagnini},
+           familyi={Z\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94c6ea0402862bf84939acad01dc8a35}{%
+           family={Della\bibnamedelima Villa},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8d916d9a338e5b1418f30b35165425af}
+      \strng{fullhash}{cc49fdb22c2b6ba9685d9fb275a50b7f}
+      \strng{fullhashraw}{cc49fdb22c2b6ba9685d9fb275a50b7f}
+      \strng{bibnamehash}{cc49fdb22c2b6ba9685d9fb275a50b7f}
+      \strng{authorbibnamehash}{cc49fdb22c2b6ba9685d9fb275a50b7f}
+      \strng{authornamehash}{8d916d9a338e5b1418f30b35165425af}
+      \strng{authorfullhash}{cc49fdb22c2b6ba9685d9fb275a50b7f}
+      \strng{authorfullhashraw}{cc49fdb22c2b6ba9685d9fb275a50b7f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal of Sports Medicine}
+      \field{number}{23}
+      \field{title}{Systematic Video Analysis of {ACL} Injuries in Professional Male Football (Soccer): Injury Mechanisms, Situational Patterns and Biomechanics Study on 134 Consecutive Cases}
+      \field{volume}{54}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{1423\bibrangedash 1432}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1136/bjsports-2019-101247
+      \endverb
     \endentry
     \entry{GiancolaEtAl2018}{inproceedings}{}{}
       \name{author}{4}{}{%
@@ -296,6 +491,92 @@
       \field{dateera}{ce}
       \field{pages}{767\bibrangedash 772}
       \range{pages}{6}
+    \endentry
+    \entry{HewettEtAl2005}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=0bbaa988917580836ec4cf1ad814d520}{%
+           family={Hewett},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6e4bae500f3c13d7ea326376715b297}{%
+           family={Myer},
+           familyi={M\bibinitperiod},
+           given={Gregory\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a142b8994cc99ddab5457a74681e2c29}{%
+           family={Ford},
+           familyi={F\bibinitperiod},
+           given={Kevin\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bc09769bdf6b8e738bcc58dae4d8ffb}{%
+           family={Heidt},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abf4882bed71ef25fcc04085aed8a389}{%
+           family={Colosimo},
+           familyi={C\bibinitperiod},
+           given={Angelo\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c4f89c9bc34f2ba406b2d20b1fa11b1}{%
+           family={McLean},
+           familyi={M\bibinitperiod},
+           given={Scott\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27826e2b3a7adb12466a81bc5a284480}{%
+           family={Bogert},
+           familyi={B\bibinitperiod},
+           given={Antonie\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=5651a213173e34824031010192f1ead0}{%
+           family={Paterno},
+           familyi={P\bibinitperiod},
+           given={Mark\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a68ba8b822e1df28ac1531854216ce9f}{%
+           family={Succop},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{43665a18be808e6cfdba81c900cd5f66}
+      \strng{fullhash}{2a82a4ac6878d93673c15f26e2a75b36}
+      \strng{fullhashraw}{2a82a4ac6878d93673c15f26e2a75b36}
+      \strng{bibnamehash}{2a82a4ac6878d93673c15f26e2a75b36}
+      \strng{authorbibnamehash}{2a82a4ac6878d93673c15f26e2a75b36}
+      \strng{authornamehash}{43665a18be808e6cfdba81c900cd5f66}
+      \strng{authorfullhash}{2a82a4ac6878d93673c15f26e2a75b36}
+      \strng{authorfullhashraw}{2a82a4ac6878d93673c15f26e2a75b36}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American Journal of Sports Medicine}
+      \field{number}{4}
+      \field{title}{Biomechanical Measures of Neuromuscular Control and Valgus Loading of the Knee Predict Anterior Cruciate Ligament Injury Risk in Female Athletes: A Prospective Study}
+      \field{volume}{33}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{492\bibrangedash 501}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1177/0363546504269591
+      \endverb
     \endentry
     \entry{IngwersenEtAl2023}{inproceedings}{}{}
       \name{author}{5}{}{%
@@ -797,6 +1078,47 @@
       \range{pages}{13}
       \verb{doi}
       \verb 10.4085/1062-6050-43.4.396
+      \endverb
+    \endentry
+    \entry{SmithHanlon2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bcc3dbeb89d076fabc403bb9123846ba}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Paul\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a319dc76dcb964630930e2c1f13d4de3}{%
+           family={Hanlon},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c44d5ba024404686eddde0e6350643c}
+      \strng{fullhash}{77393a3f1c5c1156d2d48fe1c510cc1a}
+      \strng{fullhashraw}{77393a3f1c5c1156d2d48fe1c510cc1a}
+      \strng{bibnamehash}{77393a3f1c5c1156d2d48fe1c510cc1a}
+      \strng{authorbibnamehash}{77393a3f1c5c1156d2d48fe1c510cc1a}
+      \strng{authornamehash}{6c44d5ba024404686eddde0e6350643c}
+      \strng{authorfullhash}{77393a3f1c5c1156d2d48fe1c510cc1a}
+      \strng{authorfullhashraw}{77393a3f1c5c1156d2d48fe1c510cc1a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Strength and Conditioning Research}
+      \field{number}{12}
+      \field{title}{Assessing the Effectiveness of the Functional Movement Screen in Predicting Noncontact Injury Rates in Soccer Players}
+      \field{volume}{31}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{3327\bibrangedash 3332}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1519/JSC.0000000000001757
       \endverb
     \endentry
   \enddatalist
