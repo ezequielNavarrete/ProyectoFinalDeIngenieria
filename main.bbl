@@ -19,6 +19,134 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{AWSDigitalAthlete}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Building a Digital Athlete: Using {AI} to Rewrite the Playbook on {NFL} Player Safety}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/blogs/media/building-a-digital-athlete-using-ai-to-rewrite-the-playbook-on-nfl-player-safety/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/blogs/media/building-a-digital-athlete-using-ai-to-rewrite-the-playbook-on-nfl-player-safety/
+      \endverb
+    \endentry
+    \entry{AWSNFL}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{NFL} Powered by {AWS}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/sports/nfl/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/sports/nfl/
+      \endverb
+    \endentry
+    \entry{AsaedaEtAl2024}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b23f30de216de143618e4c05c1797df4}{%
+           family={Asaeda},
+           familyi={A\bibinitperiod},
+           given={Makoto},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f300c5d640fd1b67534e7947b2ad054a}{%
+           family={Onishi},
+           familyi={O\bibinitperiod},
+           given={Tomoya},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49a2a91c8d6383516c52e3754f6c8bbd}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Hideyuki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edef9531c4fd18abd41e6797120d880e}{%
+           family={Miyahara},
+           familyi={M\bibinitperiod},
+           given={So},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72bdd01e39f6f4056afd7179cb9a9871}{%
+           family={Mikami},
+           familyi={M\bibinitperiod},
+           given={Yukio},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ecd6ea24e9f5cbfe17af9a2a1aa665b}
+      \strng{fullhash}{7e2b5d89b3e005a6b5654653d23720a6}
+      \strng{fullhashraw}{7e2b5d89b3e005a6b5654653d23720a6}
+      \strng{bibnamehash}{7e2b5d89b3e005a6b5654653d23720a6}
+      \strng{authorbibnamehash}{7e2b5d89b3e005a6b5654653d23720a6}
+      \strng{authornamehash}{7ecd6ea24e9f5cbfe17af9a2a1aa665b}
+      \strng{authorfullhash}{7e2b5d89b3e005a6b5654653d23720a6}
+      \strng{authorfullhashraw}{7e2b5d89b3e005a6b5654653d23720a6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heliyon}
+      \field{title}{Reliability and validity of knee valgus angle calculation at single-leg drop landing by posture estimation using machine learning}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{e36338}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.heliyon.2024.e36338
+      \endverb
+    \endentry
     \entry{BaezBanegasEtAl2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=26116abbdfbdf3a0f524b03c03fe5b92}{%
@@ -167,6 +295,55 @@
       \field{pages}{531\bibrangedash 540}
       \range{pages}{10}
     \endentry
+    \entry{SportsmithZone7}{online}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f0bf8b27b0cb6eb28b61fbcd4b40edf0}{%
+           family={Buchanan},
+           familyi={B\bibinitperiod},
+           given={Rich},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2824d05c0a3d7b57a71aefa71927de8}{%
+           family={Elakim},
+           familyi={E\bibinitperiod},
+           given={Roi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41ba12f7dee5d43336aa5a183bce4e65}{%
+           family={Eliakim},
+           familyi={E\bibinitperiod},
+           given={Eyal},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f231222349f47c79054c2e92f5eb40e}
+      \strng{fullhash}{2278ba9a308d7149d7203fb5d878c5c1}
+      \strng{fullhashraw}{2278ba9a308d7149d7203fb5d878c5c1}
+      \strng{bibnamehash}{2278ba9a308d7149d7203fb5d878c5c1}
+      \strng{authorbibnamehash}{2278ba9a308d7149d7203fb5d878c5c1}
+      \strng{authornamehash}{8f231222349f47c79054c2e92f5eb40e}
+      \strng{authorfullhash}{2278ba9a308d7149d7203fb5d878c5c1}
+      \strng{authorfullhashraw}{2278ba9a308d7149d7203fb5d878c5c1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Artificial Intelligence in Football: A New Frontier for Mitigating Injury Risk?}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sportsmith.co/articles/artificial-intelligence-in-football-a-new-frontier-for-mitigating-injury-risk/
+      \endverb
+      \verb{url}
+      \verb https://www.sportsmith.co/articles/artificial-intelligence-in-football-a-new-frontier-for-mitigating-injury-risk/
+      \endverb
+    \endentry
     \entry{BuckthorpeEtAl2024ACL}{article}{}{}
       \name{author}{5}{ul=2}{%
         {{un=0,uniquepart=base,hash=5fe4ac9a566ac08524a86b0fa5404d62}{%
@@ -291,6 +468,40 @@
       \verb 10.1002/ksa.70049
       \endverb
     \endentry
+    \entry{CatapultInjuryPrevention}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30f5429a00d4e7da5c060b429e94993e}{%
+           family={{Catapult}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{30f5429a00d4e7da5c060b429e94993e}
+      \strng{fullhash}{30f5429a00d4e7da5c060b429e94993e}
+      \strng{fullhashraw}{30f5429a00d4e7da5c060b429e94993e}
+      \strng{bibnamehash}{30f5429a00d4e7da5c060b429e94993e}
+      \strng{authorbibnamehash}{30f5429a00d4e7da5c060b429e94993e}
+      \strng{authornamehash}{30f5429a00d4e7da5c060b429e94993e}
+      \strng{authorfullhash}{30f5429a00d4e7da5c060b429e94993e}
+      \strng{authorfullhashraw}{30f5429a00d4e7da5c060b429e94993e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Injury Prevention and Load Management}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.catapult.com/
+      \endverb
+      \verb{url}
+      \verb https://www.catapult.com/
+      \endverb
+    \endentry
     \entry{CossioBolanosArruda2009}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=3baaf30b469243fafc575f2049b2ae5f}{%
@@ -398,6 +609,56 @@
       \range{pages}{10}
       \verb{doi}
       \verb 10.1136/bjsports-2019-101247
+      \endverb
+    \endentry
+    \entry{DennisonEtAl2026}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f5fc2783e112bb6ee9feda7a60394e36}{%
+           family={Dennison},
+           familyi={D\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb547d4f10f73e077697d46ce36cc3a8}{%
+           family={Constantino},
+           familyi={C\bibinitperiod},
+           given={Oscar\bibnamedelima Lorenzo},
+           giveni={O\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0e80b4cd11fa2dc709891436560912b}{%
+           family={Moresi},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ed6fa47c552aa0dcaa2aff00970656c}{%
+           family={Duthie},
+           familyi={D\bibinitperiod},
+           given={Grant},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{292a9a27abcae310dbaed32085e08c34}
+      \strng{fullhash}{fadea8124d805d9e3cb3509a12c44dc3}
+      \strng{fullhashraw}{fadea8124d805d9e3cb3509a12c44dc3}
+      \strng{bibnamehash}{fadea8124d805d9e3cb3509a12c44dc3}
+      \strng{authorbibnamehash}{fadea8124d805d9e3cb3509a12c44dc3}
+      \strng{authornamehash}{292a9a27abcae310dbaed32085e08c34}
+      \strng{authorfullhash}{fadea8124d805d9e3cb3509a12c44dc3}
+      \strng{authorfullhashraw}{fadea8124d805d9e3cb3509a12c44dc3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Sports Science \& Coaching}
+      \field{number}{0}
+      \field{title}{Assessment of Spatiotemporal Sprinting Kinematics in the Field: A Comparison of a Commercial 2-D Markerless Motion Capture Software Using Artificial Intelligence with {OptoJump\texttrademark}}
+      \field{volume}{0}
+      \field{year}{2026}
+      \verb{doi}
+      \verb 10.1177/17479541261436928
       \endverb
     \endentry
     \entry{GiancolaEtAl2018}{inproceedings}{}{}
@@ -633,6 +894,78 @@
       \verb 10.1109/CVPRW59228.2023.00550
       \endverb
     \endentry
+    \entry{KitmanLabsAnalisisPersonalizados}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d85ff87632589f5ab25019147783397}{%
+           family={{Kitman Labs}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d85ff87632589f5ab25019147783397}
+      \strng{fullhash}{1d85ff87632589f5ab25019147783397}
+      \strng{fullhashraw}{1d85ff87632589f5ab25019147783397}
+      \strng{bibnamehash}{1d85ff87632589f5ab25019147783397}
+      \strng{authorbibnamehash}{1d85ff87632589f5ab25019147783397}
+      \strng{authornamehash}{1d85ff87632589f5ab25019147783397}
+      \strng{authorfullhash}{1d85ff87632589f5ab25019147783397}
+      \strng{authorfullhashraw}{1d85ff87632589f5ab25019147783397}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Injury Review}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.kitmanlabs.com/
+      \endverb
+      \verb{url}
+      \verb https://www.kitmanlabs.com/
+      \endverb
+    \endentry
+    \entry{KitmanLabsSitio}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d85ff87632589f5ab25019147783397}{%
+           family={{Kitman Labs}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d85ff87632589f5ab25019147783397}
+      \strng{fullhash}{1d85ff87632589f5ab25019147783397}
+      \strng{fullhashraw}{1d85ff87632589f5ab25019147783397}
+      \strng{bibnamehash}{1d85ff87632589f5ab25019147783397}
+      \strng{authorbibnamehash}{1d85ff87632589f5ab25019147783397}
+      \strng{authornamehash}{1d85ff87632589f5ab25019147783397}
+      \strng{authorfullhash}{1d85ff87632589f5ab25019147783397}
+      \strng{authorfullhashraw}{1d85ff87632589f5ab25019147783397}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kitman Labs: Performance Intelligence Platform}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.kitmanlabs.com/
+      \endverb
+      \verb{url}
+      \verb https://www.kitmanlabs.com/
+      \endverb
+    \endentry
     \entry{MakkiEtAl2022}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=fef16119d39033664693fbdf84477b9e}{%
@@ -762,6 +1095,99 @@
       \range{pages}{11}
       \verb{doi}
       \verb 10.1519/JSC.0b013e3182915f21
+      \endverb
+    \endentry
+    \entry{NassisEtAl2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d77903d8e1612a6833ff86040ea26002}{%
+           family={Nassis},
+           familyi={N\bibinitperiod},
+           given={George\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=864017d6f259a3d4173e63305e8fe15f}{%
+           family={Verhagen},
+           familyi={V\bibinitperiod},
+           given={Evert},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e7e351f7e6ad404ad098ea9a08f8cb0}{%
+           family={Brito},
+           familyi={B\bibinitperiod},
+           given={João},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4820b6218ce6577657fec870c03e3ba9}{%
+           family={Figueiredo},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1e3e9c42813273d4b111ba56b187851}{%
+           family={Krustrup},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a16ae2ea3dcf5f611a73c34b59ed821e}
+      \strng{fullhash}{a497f85393164492ccdde4013fbc0594}
+      \strng{fullhashraw}{a497f85393164492ccdde4013fbc0594}
+      \strng{bibnamehash}{a497f85393164492ccdde4013fbc0594}
+      \strng{authorbibnamehash}{a497f85393164492ccdde4013fbc0594}
+      \strng{authornamehash}{a16ae2ea3dcf5f611a73c34b59ed821e}
+      \strng{authorfullhash}{a497f85393164492ccdde4013fbc0594}
+      \strng{authorfullhashraw}{a497f85393164492ccdde4013fbc0594}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biology of Sport}
+      \field{number}{1}
+      \field{title}{A review of machine learning applications in soccer with an emphasis on injury risk}
+      \field{volume}{40}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{233\bibrangedash 239}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.5114/biolsport.2023.114283
+      \endverb
+    \endentry
+    \entry{NFLDigitalAthlete}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1cea3e11770d653a199a225f75cb02bc}{%
+           family={{National Football League}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1cea3e11770d653a199a225f75cb02bc}
+      \strng{fullhash}{1cea3e11770d653a199a225f75cb02bc}
+      \strng{fullhashraw}{1cea3e11770d653a199a225f75cb02bc}
+      \strng{bibnamehash}{1cea3e11770d653a199a225f75cb02bc}
+      \strng{authorbibnamehash}{1cea3e11770d653a199a225f75cb02bc}
+      \strng{authornamehash}{1cea3e11770d653a199a225f75cb02bc}
+      \strng{authorfullhash}{1cea3e11770d653a199a225f75cb02bc}
+      \strng{authorfullhashraw}{1cea3e11770d653a199a225f75cb02bc}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Advancing Player Health and Safety with the Digital Athlete}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/aws-partnership/advancing-player-health-and-safety-with-the-digital-athlete
+      \endverb
+      \verb{url}
+      \verb https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/aws-partnership/advancing-player-health-and-safety-with-the-digital-athlete
       \endverb
     \endentry
     \entry{ObservatorioSocialDeporte2023}{report}{}{}
@@ -924,6 +1350,117 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/2076-3417/14/15/6430
+      \endverb
+    \endentry
+    \entry{RicoGonzalezEtAl2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6cff513ad4d168f0e9b584c985868258}{%
+           family={Rico-Gonz{'a}lez},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Markel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7685ee04166244cdeb5ce54f61333b6d}{%
+           family={Pino-Ortega},
+           familyi={P\bibinithyphendelim O\bibinitperiod},
+           given={Jos{'e}},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c44f82347df25d817fe817c6073bfce4}{%
+           family={M{'e}ndez},
+           familyi={M\bibinitperiod},
+           given={Amaia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b61a1adb257931652091d1e4a1abfe44}{%
+           family={Clemente},
+           familyi={C\bibinitperiod},
+           given={Filipe\bibnamedelima Manuel},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31df303c870a6232f0deab5b539e6d6a}{%
+           family={Baca},
+           familyi={B\bibinitperiod},
+           given={Arnold},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e9a99ecd49a924ac29177298458d2ff}
+      \strng{fullhash}{7371a807d5555a72c06b3ea718e4076b}
+      \strng{fullhashraw}{7371a807d5555a72c06b3ea718e4076b}
+      \strng{bibnamehash}{7371a807d5555a72c06b3ea718e4076b}
+      \strng{authorbibnamehash}{7371a807d5555a72c06b3ea718e4076b}
+      \strng{authornamehash}{7e9a99ecd49a924ac29177298458d2ff}
+      \strng{authorfullhash}{7371a807d5555a72c06b3ea718e4076b}
+      \strng{authorfullhashraw}{7371a807d5555a72c06b3ea718e4076b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biology of Sport}
+      \field{number}{1}
+      \field{title}{Machine learning application in soccer: a systematic review}
+      \field{volume}{40}
+      \field{year}{2023}
+      \field{pages}{249\bibrangedash 263}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.5114/biolsport.2023.112970
+      \endverb
+    \endentry
+    \entry{RoggioEtAl2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=64288ccd4ca1f41ec925c4ec0ea9618c}{%
+           family={Roggio},
+           familyi={R\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e7ee72ac9139eb9b7c66de544ef27ac}{%
+           family={Trovato},
+           familyi={T\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a183646154c11c8e8ca61a53e14335d}{%
+           family={Sortino},
+           familyi={S\bibinitperiod},
+           given={Martina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a8dab51ecb1ade03c84b27be8c1f03c}{%
+           family={Musumeci},
+           familyi={M\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4fcf48d943ef760f412631d1e8c437ec}
+      \strng{fullhash}{f506481a8b4b742ba019bd21cd2ea7b3}
+      \strng{fullhashraw}{f506481a8b4b742ba019bd21cd2ea7b3}
+      \strng{bibnamehash}{f506481a8b4b742ba019bd21cd2ea7b3}
+      \strng{authorbibnamehash}{f506481a8b4b742ba019bd21cd2ea7b3}
+      \strng{authornamehash}{4fcf48d943ef760f412631d1e8c437ec}
+      \strng{authorfullhash}{f506481a8b4b742ba019bd21cd2ea7b3}
+      \strng{authorfullhashraw}{f506481a8b4b742ba019bd21cd2ea7b3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heliyon}
+      \field{number}{21}
+      \field{title}{A comprehensive analysis of the machine learning pose estimation models used in human movement and posture analyses: A narrative review}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{e39977}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.heliyon.2024.e39977
       \endverb
     \endentry
     \entry{RossEtAl2023}{article}{}{}
@@ -1119,6 +1656,308 @@
       \range{pages}{6}
       \verb{doi}
       \verb 10.1519/JSC.0000000000001757
+      \endverb
+    \endentry
+    \entry{SouaifiEtAl2025}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=8d4c4a4b0de40f647121c736747c1788}{%
+           family={Souaifi},
+           familyi={S\bibinitperiod},
+           given={Marouen},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22ca67085fe016db97cea0445b3181ed}{%
+           family={Dhahbi},
+           familyi={D\bibinitperiod},
+           given={Wissem},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7fe93b817f7c4fb17bc7f98ffa40151}{%
+           family={Jebabli},
+           familyi={J\bibinitperiod},
+           given={Nidhal},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61c2f0b1d9e16a32353b1c911960ca76}{%
+           family={Ceylan},
+           familyi={C\bibinitperiod},
+           given={Halil\bibnamedelima İbrahim},
+           giveni={H\bibinitperiod\bibinitdelim İ\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69ec2f83dd73af86f316b3c34b2eb14a}{%
+           family={Boujabli},
+           familyi={B\bibinitperiod},
+           given={Manar},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16041eef1a453679704a66c94ca755c2}{%
+           family={Muntean},
+           familyi={M\bibinitperiod},
+           given={Raul\bibnamedelima Ioan},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e41d28b016cd26aba4651991c768fe3}{%
+           family={Dergaa},
+           familyi={D\bibinitperiod},
+           given={Ismail},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9470c06eda57b2d3f6ac0d0b5f085704}
+      \strng{fullhash}{f18f90184b1f30b53f69079d441fca3d}
+      \strng{fullhashraw}{f18f90184b1f30b53f69079d441fca3d}
+      \strng{bibnamehash}{f18f90184b1f30b53f69079d441fca3d}
+      \strng{authorbibnamehash}{f18f90184b1f30b53f69079d441fca3d}
+      \strng{authornamehash}{9470c06eda57b2d3f6ac0d0b5f085704}
+      \strng{authorfullhash}{f18f90184b1f30b53f69079d441fca3d}
+      \strng{authorfullhashraw}{f18f90184b1f30b53f69079d441fca3d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioengineering}
+      \field{number}{8}
+      \field{title}{Artificial Intelligence in Sports Biomechanics: A Scoping Review on Wearable Technology, Motion Analysis, and Injury Prevention}
+      \field{volume}{12}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{887}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/bioengineering12080887
+      \endverb
+    \endentry
+    \entry{StatCounterMobileOSArgentina}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fee3fc182e02f376217580e5bfec4f51}{%
+           family={{StatCounter}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{fullhash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{fullhashraw}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{bibnamehash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{authorbibnamehash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{authornamehash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{authorfullhash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{authorfullhashraw}{fee3fc182e02f376217580e5bfec4f51}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mobile Operating System Market Share Argentina}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://gs.statcounter.com/os-market-share/mobile/argentina
+      \endverb
+      \verb{url}
+      \verb https://gs.statcounter.com/os-market-share/mobile/argentina
+      \endverb
+    \endentry
+    \entry{SundbergEtAl2025}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=763588540109e20c3d13b3045aa3effc}{%
+           family={Sundberg},
+           familyi={S\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=616e23399aacc928fb6298b2fc7ebd60}{%
+           family={H{"o}gberg},
+           familyi={H\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8677e8f2d4a7164430b2950b45d8a3d8}{%
+           family={Tosarelli},
+           familyi={T\bibinitperiod},
+           given={Filippo},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fe4ac9a566ac08524a86b0fa5404d62}{%
+           family={Buckthorpe},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3effba78c2ae6ba16094bc7527d8cf2c}{%
+           family={Della\bibnamedelima Villa},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ad5bcbf76801c6530c5a6f4cb15f469}{%
+           family={H{"a}gglund},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f48384baf06c44dae1ec3b4d2b5f5ca}{%
+           family={Samuelsson},
+           familyi={S\bibinitperiod},
+           given={Kristian},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e7777afa574019a66fb6cf8767a9b18}{%
+           family={Hamrin\bibnamedelima Senorski},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b4eecfafa70e589ab6228c5ad257c84}
+      \strng{fullhash}{146b3a6242c88b48c6607c011a35c8e8}
+      \strng{fullhashraw}{146b3a6242c88b48c6607c011a35c8e8}
+      \strng{bibnamehash}{146b3a6242c88b48c6607c011a35c8e8}
+      \strng{authorbibnamehash}{146b3a6242c88b48c6607c011a35c8e8}
+      \strng{authornamehash}{5b4eecfafa70e589ab6228c5ad257c84}
+      \strng{authorfullhash}{146b3a6242c88b48c6607c011a35c8e8}
+      \strng{authorfullhashraw}{146b3a6242c88b48c6607c011a35c8e8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sports Medicine}
+      \field{number}{10}
+      \field{title}{Sport-Specific Injury Mechanisms and Situational Patterns of ACL Injuries: A Comprehensive Systematic Review}
+      \field{volume}{55}
+      \field{year}{2025}
+      \field{pages}{2489\bibrangedash 2527}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1007/s40279-025-02271-w
+      \endverb
+    \endentry
+    \entry{VueMotionSitio}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd9a40188ae110c98108fca4e3c8ef4f}{%
+           family={{VueMotion}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd9a40188ae110c98108fca4e3c8ef4f}
+      \strng{fullhash}{bd9a40188ae110c98108fca4e3c8ef4f}
+      \strng{fullhashraw}{bd9a40188ae110c98108fca4e3c8ef4f}
+      \strng{bibnamehash}{bd9a40188ae110c98108fca4e3c8ef4f}
+      \strng{authorbibnamehash}{bd9a40188ae110c98108fca4e3c8ef4f}
+      \strng{authornamehash}{bd9a40188ae110c98108fca4e3c8ef4f}
+      \strng{authorfullhash}{bd9a40188ae110c98108fca4e3c8ef4f}
+      \strng{authorfullhashraw}{bd9a40188ae110c98108fca4e3c8ef4f}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{VueMotion}: {AI}-Powered Athletic Performance Analysis Platform}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.vuemotion.com/
+      \endverb
+      \verb{url}
+      \verb https://www.vuemotion.com/
+      \endverb
+    \endentry
+    \entry{YomaEtAl2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=82588d997cf21d05b0a7f910b852ec83}{%
+           family={Yoma},
+           familyi={Y\bibinitperiod},
+           given={Matias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28f74fc03df67db908185ed3c3945331}{%
+           family={Llurda-Almuzara},
+           familyi={L\bibinithyphendelim A\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cf88b95c0d82b1f6aa33910719424fd}{%
+           family={Herrington},
+           familyi={H\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=686f63784177f089204782d110bd55f1}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d571613d39c4ba27773f764e9deae738}
+      \strng{fullhash}{eca2d1cfd7998e9c4d39c7d2917f8aad}
+      \strng{fullhashraw}{eca2d1cfd7998e9c4d39c7d2917f8aad}
+      \strng{bibnamehash}{eca2d1cfd7998e9c4d39c7d2917f8aad}
+      \strng{authorbibnamehash}{eca2d1cfd7998e9c4d39c7d2917f8aad}
+      \strng{authornamehash}{d571613d39c4ba27773f764e9deae738}
+      \strng{authorfullhash}{eca2d1cfd7998e9c4d39c7d2917f8aad}
+      \strng{authorfullhashraw}{eca2d1cfd7998e9c4d39c7d2917f8aad}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sports Sciences}
+      \field{number}{17}
+      \field{title}{Reliability and validity of lower extremity and trunk kinematics measured with markerless motion capture during sports-related and functional tasks: A systematic review}
+      \field{volume}{43}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{1703\bibrangedash 1730}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1080/02640414.2025.2518359
+      \endverb
+    \endentry
+    \entry{Zone7ValidationStudy}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a45662738dbce56e353f8e68f54e918d}{%
+           family={{Zone7}},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{a45662738dbce56e353f8e68f54e918d}
+      \strng{fullhash}{a45662738dbce56e353f8e68f54e918d}
+      \strng{fullhashraw}{a45662738dbce56e353f8e68f54e918d}
+      \strng{bibnamehash}{a45662738dbce56e353f8e68f54e918d}
+      \strng{authorbibnamehash}{a45662738dbce56e353f8e68f54e918d}
+      \strng{authornamehash}{a45662738dbce56e353f8e68f54e918d}
+      \strng{authorfullhash}{a45662738dbce56e353f8e68f54e918d}
+      \strng{authorfullhashraw}{a45662738dbce56e353f8e68f54e918d}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Injury Risk Forecasting with {Zone7} {AI}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://zone7.ai/case-studies/validation-study/validation-study-injury-risk-forecasting-with-zone7-ai/
+      \endverb
+      \verb{url}
+      \verb https://zone7.ai/case-studies/validation-study/validation-study-injury-risk-forecasting-with-zone7-ai/
       \endverb
     \endentry
   \enddatalist

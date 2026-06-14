@@ -1,0 +1,311 @@
+\chapter{Estado del arte}\label{estado_del_arte}
+
+En esta sección se describen herramientas, aplicaciones y plataformas existentes relacionadas
+con el producto propuesto. Además, se exponen investigaciones y estudios recientes que abordan
+el análisis del movimiento deportivo mediante inteligencia artificial, visión por computadora
+y técnicas de evaluación biomecánica.
+
+\section{Competencia de mercado}
+
+\subsection{VueMotion}
+
+VueMotion \parencite{VueMotionSitio} es una plataforma comercial para análisis del movimiento
+deportivo basada en inteligencia artificial y visión por computadora. Se orienta a la
+evaluación biomecánica de atletas en contextos reales de entrenamiento, permitiendo analizar
+acciones como aceleraciones, carrera, desaceleraciones, cambios de dirección y saltos. La
+herramienta se presenta como una solución aplicable a distintos deportes, entre ellos el
+fútbol, y busca acercar mediciones biomecánicas que tradicionalmente requerían laboratorios,
+sensores o equipamiento especializado.
+
+VueMotion está apuntado a un mercado compuesto por entrenadores, atletas, preparadores
+físicos, profesionales médicos, fisioterapeutas, academias deportivas, universidades, clubes
+y equipos profesionales. La plataforma comunica sus planes y casos de uso, orientados tanto
+a entrenadores individuales como a organizaciones deportivas de mayor escala. Por lo tanto,
+su posicionamiento no se limita a usuarios individuales, sino que se enfoca principalmente en
+instituciones.
+
+En cuanto a su funcionamiento, VueMotion combina una aplicación móvil con una plataforma web.
+La captura puede realizarse mediante dispositivos iOS, y la plataforma permite procesar los
+videos para obtener reportes biomecánicos, videos aumentados, kinogramas y datos exportables.
+Según la información provista por la empresa, el equipamiento necesario para realizar las
+evaluaciones se reduce a un smartphone, un trípode y conos de referencia, sin requerir
+sensores corporales ni sistemas de captura de movimiento de laboratorio. No obstante, la
+disponibilidad de su aplicación móvil en iOS representa una desventaja para el mercado
+argentino, dado que Android concentra el 81,17\% del mercado móvil nacional, frente al
+18,79\% correspondiente a iOS \parencite{VueMotionSitio,StatCounterMobileOSArgentina}.
+
+En cuanto al punto de vista técnico, el sitio presenta una similitud importante con el
+presente proyecto, ya que ambos parten del uso de video para analizar el movimiento humano
+mediante inteligencia artificial y visión por computadora. Esta cercanía se refuerza con la
+validación académica realizada por \textcite{DennisonEtAl2026}, donde VueMotion fue
+evaluado como un sistema comercial de captura de movimiento sin marcadores basado en
+inteligencia artificial para medir variables espaciotemporales del sprint a partir de video
+grabado en dispositivos móviles.
+
+No obstante, a partir de la documentación pública disponible, no se identifica con claridad
+que VueMotion esté orientado específicamente a la detección automática de patrones de riesgo
+de lesión del tren inferior en fútbol. Si bien la plataforma menciona aplicaciones vinculadas
+al rendimiento deportivo, la biomecánica, la reducción del riesgo de lesión y el retorno al
+juego, no se detallan públicamente reglas, criterios o modelos específicos para detectar
+patrones como apoyos inestables, alteraciones en la alineación cadera-rodilla-tobillo o
+mecanismos de lesión concretos propios del fútbol o de otros deportes. Su principal
+limitación para el presente análisis es que se presenta como una herramienta general de
+evaluación biomecánica y rendimiento deportivo, sin evidenciar un foco específico en
+patrones preventivos del tren inferior aplicados al fútbol.
+
+\subsection{Zone7}
+
+Zone7 \parencite{Zone7ValidationStudy} es una plataforma comercial basada en inteligencia
+artificial orientada a la predicción del riesgo de lesión en deportistas profesionales. A
+diferencia de herramientas centradas en el análisis biomecánico por video, su enfoque se
+basa en integrar y procesar distintas fuentes de datos disponibles en los clubes, con el
+objetivo de generar alertas de riesgo que puedan ser utilizadas por cuerpos técnicos,
+preparadores físicos y equipos médicos en la toma de decisiones \parencite{SportsmithZone7}.
+
+El sistema se presenta como una solución que no está condicionada por la tecnología
+utilizada por cada institución. Esto significa que puede trabajar con datos provenientes de
+diferentes proveedores y dispositivos, principalmente relacionados con carga externa, carga
+interna, historial de lesiones, edad del jugador y calendario competitivo. Con estos datos,
+esta herramienta estima diariamente la probabilidad de que cada jugador sufra una lesión
+dentro de los siguientes siete días, clasificando el riesgo como medio o alto cuando supera
+determinados umbrales \parencite{Zone7ValidationStudy}.
+
+Uno de los análisis publicados sobre la herramienta corresponde a un estudio retrospectivo
+realizado sobre 11 equipos profesionales de fútbol de Europa y Norteamérica, con datos
+pertenecientes desde el 2019 al 2021, donde se cruzaron las predicciones generadas por el
+sistema con 423 lesiones reales registradas en jugadores de campo. Según los resultados
+publicados, se anticipó un incremento del riesgo entre uno y siete días previos en 306 de
+las 423 lesiones analizadas, lo que representa un 72,4\% de los casos
+\parencite{Zone7ValidationStudy}.
+
+Dentro del mismo análisis, para nueve de los once equipos, se incluyó un algoritmo orientado
+a estimar la zona corporal más probable de lesión en el tren inferior. El sistema indicó las
+tres regiones corporales con mayor probabilidad de lesión cada vez que detectaba un aumento
+del riesgo. No obstante, los propios autores señalan que esta parte del análisis se encuentra
+limitada por el tamaño de muestra disponible por tipo de lesión y que las tendencias
+observadas no son estadísticamente significativas \parencite{Zone7ValidationStudy}.
+
+Si bien Zone7 constituye un antecedente relevante por aplicar inteligencia artificial a la
+mitigación del riesgo de lesión en fútbol profesional, no se considera una competencia
+directa del presente proyecto. Su enfoque principal no se basa en el análisis visual del
+movimiento ni en la estimación de postura humana a partir de video, sino en modelos
+predictivos construidos sobre datos cargados.
+
+\subsection{Kitman Labs}
+
+Kitman Labs \parencite{KitmanLabsSitio} se orienta a la inteligencia del rendimiento
+deportivo mediante la unificación de datos, flujos de trabajo y procesos de toma de
+decisión dentro de organizaciones deportivas. Su propuesta incluye soluciones vinculadas
+con medicina del rendimiento, optimización del rendimiento, desarrollo de deportistas,
+gestión operativa de ligas y análisis personalizado. Su mercado apunta principalmente a
+organismos gubernamentales, clubes, equipos, ligas y universidades que necesitan centralizar
+información médica, física y deportiva de sus atletas.
+
+Dentro de sus funcionalidades, Kitman Labs incluye un apartado denominado revisión de
+lesiones. Esta funcionalidad busca ofrecer una visión clara del tipo, volumen y gravedad de
+las lesiones a lo largo del tiempo y durante la temporada. Además, permite analizar factores
+como edad, posición y calendario de partidos, con el objetivo de identificar áreas donde
+enfocar esfuerzos de prevención, protocolos de retorno y metodología de entrenamiento
+\parencite{KitmanLabsAnalisisPersonalizados}.
+
+Al igual que Zone7, su enfoque se apoya principalmente en la integración, organización y
+análisis de datos médicos, físicos y contextuales de los deportistas. Por este motivo, si
+bien se vincula con la prevención de lesiones y la toma de decisiones en el ámbito
+deportivo, no se centra en el análisis visual del movimiento ni en la detección automática
+de patrones biomecánicos del tren inferior a partir de video.
+
+\subsection{Catapult}
+
+Catapult \parencite{CatapultInjuryPrevention} se especializa en el monitoreo del rendimiento
+físico de los atletas mediante dispositivos wearables, GPS y sensores. En el contexto del
+fútbol, sus soluciones permiten registrar y analizar información relacionada con distancia
+recorrida, velocidad, aceleraciones, desaceleraciones, cambios de dirección, carga física,
+fatiga y recuperación.
+
+Desde el punto de vista preventivo, la empresa propone utilizar estos datos para acompañar
+la planificación de cargas de entrenamiento, identificar señales de sobreentrenamiento,
+reducir factores asociados al riesgo de lesión y apoyar procesos de retorno al juego. De
+esta manera, la información generada puede ser utilizada por entrenadores, preparadores
+físicos y cuerpos médicos para tomar decisiones sobre la preparación y disponibilidad de
+los jugadores \parencite{CatapultInjuryPrevention}.
+
+Catapult se vincula con la prevención de lesiones a partir del monitoreo físico del jugador.
+Su aporte no se basa en analizar visualmente la técnica o la biomecánica del movimiento,
+sino en registrar datos mediante GPS, dispositivos wearables y sensores para interpretar la
+carga de entrenamiento, la fatiga y la recuperación. A partir de esa información, los
+cuerpos técnicos pueden ajustar la planificación, controlar esfuerzos y detectar situaciones
+que puedan aumentar el riesgo de lesión \parencite{CatapultInjuryPrevention}.
+
+\section{Herramientas institucionales}
+
+\subsection{NFL Digital Athlete}
+
+Digital Athlete \parencite{NFLDigitalAthlete} es una iniciativa desarrollada por la National
+Football League (NFL) junto con Amazon Web Services (AWS) que se presenta como una herramienta
+institucional utilizada dentro del ecosistema de la NFL para asistir a sus equipos en la
+gestión de la salud y seguridad de los jugadores \parencite{AWSNFL}.
+
+Es una herramienta de predicción de lesiones basada en datos e inteligencia artificial. Su
+objetivo es construir una representación integral de la experiencia del jugador, tomando
+información proveniente de entrenamientos, prácticas y partidos. Según la NFL, los 32 clubes
+de la liga tienen acceso a un portal en el que se presentan datos diarios relacionados con
+volumen de entrenamiento, riesgo de lesión, tendencias de la liga y referencias comparativas.
+Esta información es utilizada por entrenadores y cuerpos técnicos para diseñar programas
+individualizados de prevención, entrenamiento y recuperación.
+
+Desde el punto de vista técnico, el sistema integra múltiples fuentes de datos. AWS describe
+que Digital Athlete utiliza información de Next Gen Stats, que son datos de localización,
+velocidad y aceleración de los jugadores, videos de partidos y prácticas, sensores,
+condiciones climáticas, equipamiento y tipo de jugada. Luego, a partir de estos datos, los
+algoritmos de inteligencia artificial y aprendizaje automático ejecutan simulaciones de
+partidos y escenarios específicos con el objetivo de identificar situaciones o jugadores con
+mayor riesgo de lesión.
+
+\textcite{AWSDigitalAthlete} menciona que esta herramienta se encuentra desarrollando
+tecnologías de estimación de pose 3D para analizar cómo los movimientos de los jugadores en
+el espacio y el tiempo pueden vincularse con determinadas lesiones. Para ello, utiliza un
+conjunto sincronizado de 38 cámaras ubicadas alrededor del estadio, capaces de capturar video
+en 5K a 60 cuadros por segundo. Con esta infraestructura, el sistema puede reconstruir
+esqueletos virtuales de los jugadores y analizar la posición de articulaciones y extremidades
+durante las jugadas.
+
+Esta misma característica marca una de sus principales limitaciones en relación con el
+presente análisis, ya que requiere una infraestructura propia de una liga profesional,
+compuesta por múltiples cámaras sincronizadas, sensores, datos propietarios de seguimiento y
+capacidad de procesamiento en la nube. Por lo tanto, si bien constituye un antecedente
+relevante por su uso de inteligencia artificial, datos deportivos, visión por computadora y
+prevención de lesiones, no se considera una competencia directa del proyecto propuesto. Su
+alcance está orientado al fútbol americano profesional y depende de una infraestructura
+avanzada.
+
+\section{Estudios y trabajos realizados}
+
+Dentro de los estudios académicos relevados, se observa una línea de trabajo orientada al
+análisis sistemático de videos de lesiones reales ocurridas durante partidos de fútbol. Estos
+estudios resultan relevantes para el presente proyecto porque permiten identificar qué
+situaciones de juego, mecanismos de lesión y patrones biomecánicos aparecen con mayor
+frecuencia en lesiones del tren inferior. A diferencia de las herramientas comerciales
+descriptas previamente, estos trabajos no buscan ofrecer una plataforma de uso directo para
+clubes o deportistas, sino analizar casos reales de lesión para comprender cómo ocurren y
+qué variables podrían considerarse en estrategias de prevención.
+
+Uno de los trabajos más relevantes es el realizado por Della Villa et al.
+\parencite{DellaVillaEtAl2020}, quienes analizaron lesiones del ligamento cruzado anterior
+en fútbol profesional masculino italiano. El estudio identificó 148 lesiones a lo largo de
+diez temporadas, de las cuales 134 pudieron ser analizadas mediante video. Para ello, los
+autores utilizaron videos de partidos obtenidos desde plataformas como Wyscout y Panini
+Digital, procesaron los fragmentos con herramientas digitales y realizaron la evaluación con
+el software Kinovea. A partir de estos videos, tres revisores independientes analizaron el
+mecanismo de lesión, el patrón situacional y, cuando la calidad de imagen lo permitía,
+variables biomecánicas en el plano frontal y sagital.
+
+Los resultados de dicho trabajo muestran que una gran parte de las lesiones del ligamento
+cruzado anterior ocurrieron sin contacto directo sobre la rodilla. El estudio clasificó las
+lesiones en mecanismos sin contacto, contacto indirecto y contacto directo, y encontró
+cuatro situaciones principales: acciones de presión o entrada, jugador tackleado,
+recuperación del equilibrio luego de patear y aterrizaje luego de un salto. Además, la
+carga en valgo de rodilla fue identificada como un patrón dominante en la mayoría de los
+casos analizados. Este aporte es especialmente importante para el presente proyecto, ya que
+permite justificar la observación de variables como alineación de rodilla, apoyo monopodal,
+estabilidad del tren inferior y gestos propios del fútbol, como cambios de dirección,
+desaceleraciones, entradas y aterrizajes.
+
+En una línea similar, Buckthorpe et al. \parencite{BuckthorpeEtAl2024ACL} analizaron 115
+lesiones de ligamento cruzado anterior en fútbol profesional masculino español. Este estudio
+tomó como base una metodología comparable a la de Della Villa et al., pero la aplicó sobre
+las dos principales categorías del fútbol español. Los videos fueron obtenidos desde
+Wyscout, procesados mediante una herramienta en la nube denominada Digital Log y evaluados
+con Kinovea. Para el análisis de ángulos y posiciones articulares también se utilizó un
+software específico denominado Screen Editor. En este caso, además de los mecanismos de
+lesión y los patrones situacionales, los autores incorporaron el análisis de errores
+neurocognitivos en las lesiones sin contacto.
+
+Este estudio confirmó varios hallazgos del trabajo anterior. Las lesiones sin contacto y por
+contacto indirecto tuvieron una presencia similar, y los patrones más frecuentes volvieron
+a estar relacionados con acciones de presión, entradas, jugador tackleado, aterrizajes y
+recuperación del equilibrio luego de patear. Desde el punto de vista biomecánico, se
+observó un predominio de carga sobre la rodilla, con cadera abducida y valgo dinámico.
+Este hallazgo refuerza la importancia de no analizar únicamente una articulación aislada,
+sino la relación entre cadera, rodilla, tobillo y apoyo durante acciones específicas del
+fútbol. A su vez, la incorporación del componente neurocognitivo muestra que algunas
+lesiones ocurren en escenarios donde el jugador debe reaccionar rápidamente ante un
+estímulo externo, como un engaño, una marca, una pelota dividida o un cambio inesperado en
+la situación de juego.
+
+Otro trabajo relevante para el alcance del presente proyecto es el estudio de Buckthorpe et
+al. \parencite{BuckthorpeEtAl2025Ankle}, centrado en esguinces de tobillo en fútbol
+masculino de élite. A diferencia de los estudios anteriores, este trabajo no se enfoca en la
+rodilla, sino en una lesión frecuente del tobillo, por lo que resulta útil para ampliar el
+análisis hacia el tren inferior en su conjunto. Los autores identificaron 166 esguinces de
+tobillo y analizaron 140 videos de lesiones ocurridas en partidos oficiales. Al igual que en
+los estudios previos, se utilizaron videos obtenidos de plataformas de análisis futbolístico,
+procesamiento digital de los clips y evaluación por revisores expertos mediante Kinovea.
+
+Los resultados evidencian, además de lo que ya se viene comentando, que el análisis de video
+no solo permite observar la rodilla, sino también la posición del pie, el tipo de apoyo y
+la relación entre tobillo y movimiento corporal durante acciones reales de juego.
+
+\textcite{SundbergEtAl2025} realizaron un estudio que sintetizó investigaciones sobre
+mecanismos y patrones situacionales de lesión del ligamento cruzado anterior en distintos
+deportes, donde se incluyeron varios deportes y más de 5000 situaciones de lesión. Para
+evaluar la calidad de los estudios de videoálisis, los autores utilizaron una escala de
+evaluación metodológica diseñada por expertos en ciencias del deporte, biomecánica y
+medicina deportiva. A partir de la revisión, propusieron una clasificación general de
+situaciones de lesión, entre ellas cambios de dirección, aterrizajes, contacto directo sobre
+la rodilla y mecanismos inducidos por equipamiento. Estos estudios evidencian que los
+mecanismos de lesión no son iguales en todos los deportes, sino que dependen de las demandas
+específicas de cada práctica, por lo que no se pueden analizar movimientos genéricos sino
+que se deben revisar las acciones propias del fútbol con patrones del tren inferior
+asociados a dichas acciones.
+
+Los trabajos de Nassis et al. \parencite{NassisEtAl2023} y Rico-González et al.
+\parencite{RicoGonzalezEtAl2023} permiten analizar el uso de machine learning en fútbol
+desde una perspectiva más general. Como conclusión puede observarse que el aprendizaje
+automático se ha utilizado en áreas como predicción de lesiones, monitoreo de carga,
+rendimiento físico, análisis táctico, trayectoria de jugadores y detección de talento.
+
+Estos estudios señalan una limitación en la capacidad predictiva de los modelos de machine
+learning aplicados al riesgo de lesión, que hasta la fecha todavía es variable y depende en
+gran medida de la cantidad, calidad y continuidad de los datos disponibles. En muchos casos,
+los modelos no analizan directamente el movimiento del jugador mediante video, sino que
+trabajan sobre datos acumulados del deportista o métricas de carga.
+
+\subsection{Conclusión}
+
+Se puede observar que durante los últimos años aparecieron distintas aproximaciones
+tecnológicas y académicas relacionadas con la prevención de lesiones en el fútbol y el
+análisis del movimiento deportivo. Algunas soluciones, como Zone7, Kitman Labs y Catapult,
+abordan la problemática desde el monitoreo de carga, historial médico, datos físicos, GPS,
+sensores y variables contextuales del deportista. Estas herramientas permiten asistir a
+cuerpos técnicos y médicos en la toma de decisiones, pero no se centran en el análisis
+visual de patrones biomecánicos del tren inferior a partir de video.
+
+Soluciones como VueMotion presentan una mayor cercanía tecnológica con el proyecto
+propuesto, ya que utilizan video, inteligencia artificial y análisis biomecánico del
+movimiento. Siendo mayores sus similitudes, esta solución se enfoca principalmente en la
+evaluación general del rendimiento deportivo y no se evidencia, a partir de la documentación
+pública disponible, un foco específico en la detección de patrones de riesgo de lesiones del
+tren inferior en fútbol. En el caso de Digital Athlete, se trata de un antecedente relevante
+por su uso avanzado de inteligencia artificial, datos deportivos, visión por computadora y
+estimación de pose, pero su alcance depende de una infraestructura que requiere una
+inversión importante y conjunta de la liga profesional, con múltiples cámaras, sensores y
+de la organización de los clubes para compartir y recibir estos datos.
+
+Los estudios académicos relevados permiten reforzar la importancia del análisis de video
+para comprender mecanismos reales de lesión en fútbol. En particular, las investigaciones
+sobre lesiones del ligamento cruzado anterior y del tobillo muestran que existen patrones
+repetidos asociados a situaciones propias del juego, como acciones de presión, cambios de
+dirección, desaceleraciones, entradas, aterrizajes, recuperación del equilibrio luego de
+patear y apoyos de una sola pierna.
+
+A modo de resumen y teniendo en cuenta el estado del arte expuesto, se identifica una
+oportunidad para desarrollar una propuesta orientada al análisis automático de videos de
+jugadores de fútbol, enfocada específicamente en el tren inferior y en la detección de
+patrones biomecánicos asociados al riesgo de lesión. El proyecto planteado busca
+diferenciarse por utilizar videos capturados con dispositivos móviles o cámaras
+convencionales, sin requerir sensores corporales ni infraestructura especializada, y por
+generar información preventiva sobre rodilla, tobillo y apoyos. Su objetivo, como el de las
+herramientas existentes, no es diagnosticar lesiones ni reemplazar al cuerpo médico, sino
+aportar una herramienta de apoyo para observar movimientos relevantes y facilitar la
+identificación temprana de patrones de riesgo durante acciones propias del fútbol para
+poder trabajar en sus causas.

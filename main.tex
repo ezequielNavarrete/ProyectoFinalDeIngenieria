@@ -84,6 +84,10 @@
 % Espaciado antes y despu\'es de una figura respecto del texto
 \setlength{\textfloatsep}{5pt}
 
+% Para diagramas de Gantt y páginas apaisadas
+\usepackage{pgfgantt}
+\usepackage{pdflscape}
+
 % Para notas
 \usepackage{todonotes}
 \setlength{\marginparwidth}{2cm}
@@ -195,9 +199,9 @@
 % Para trabajar:
 \usepackage[
 	colorlinks=true,
-	citecolor=red,
-	linkcolor=red,
-	urlcolor=blue
+	citecolor=black,
+	linkcolor=black,
+	urlcolor=black
 ]{hyperref}
 
 % pdfcomment debe ir después de hyperref para evitar problemas con enlaces internos.
@@ -259,6 +263,7 @@
 
 \input{chapters/01_introduccion}
 \input{chapters/02_antecedentes}
+\input{chapters/03_estado_del_arte}
 %\input{chapters/conclusion}
 
 \addcontentsline{toc}{chapter}{Bibliograf\'{\i}a}

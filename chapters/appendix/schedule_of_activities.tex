@@ -1,11 +1,80 @@
 \anexo{Cronograma de actividades}
 
-En este anexo se presenta el cronograma de actividades del Proyecto Final de Ingeniería, detallando las etapas de desarrollo y los hitos principales.
+En este anexo se presenta el cronograma de actividades del Proyecto Final de Ingeniería,
+detallando las etapas de desarrollo y los hitos principales.
 
-% Reemplazar la siguiente figura por el diagrama de Gantt correspondiente.
-% \begin{figure}[H]
-%   \centering
-%   \includegraphics[width=\textwidth]{images/gantt}
-%   \caption{Diagrama de Gantt del proyecto.}
-%   \label{fig:gantt}
-% \end{figure}
+\begin{figure}[H]
+  \centering
+  \begin{ganttchart}[
+    hgrid,
+    vgrid={*1{gray!20}},
+    x unit=1.05cm,
+    y unit title=0.8cm,
+    y unit chart=0.85cm,
+    title/.style={fill=gray!25, draw=black},
+    title label font=\small\bfseries,
+    bar label font=\small,
+    bar label node/.append style={align=right, text width=5cm},
+    bar/.style={fill=blue!35, rounded corners=2pt}
+  ]{1}{9}
+    \gantttitle{2026}{9} \\
+    \gantttitle{Mar.}{1}
+    \gantttitle{Abr.}{1}
+    \gantttitle{May.}{1}
+    \gantttitle{Jun.}{1}
+    \gantttitle{Jul.}{1}
+    \gantttitle{Ago.}{1}
+    \gantttitle{Sep.}{1}
+    \gantttitle{Oct.}{1}
+    \gantttitle{Nov.}{1} \\
+    \ganttbar{Investigación inicial e ideación de la propuesta}{1}{1} \\
+    \ganttbar{Definición del alcance y validación con el tutor}{1}{2} \\
+    \ganttbar{Relevamiento bibliográfico inicial}{2}{4} \\
+    \ganttbar{Marco teórico y estado del arte}{3}{4} \\
+    \ganttbar{Diseño de encuesta y entrevistas}{3}{4} \\
+    \ganttbar{\textit{User research}: encuestas y entrevistas}{4}{5} \\
+    \ganttbar{Análisis de resultados del relevamiento}{5}{5} \\
+    \ganttbar{Definición de requerimientos del sistema}{5}{6} \\
+    \ganttbar{Diseño de arquitectura del prototipo}{6}{6} \\
+    \ganttbar{Selección de tecnologías de visión por computadora}{6}{6}
+  \end{ganttchart}
+  \caption{Diagrama de Gantt del proyecto, parte 1 (marzo--noviembre 2026).}
+  \label{fig:gantt-1}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \begin{ganttchart}[
+    hgrid,
+    vgrid={*1{gray!20}},
+    x unit=1.05cm,
+    y unit title=0.8cm,
+    y unit chart=0.85cm,
+    title/.style={fill=gray!25, draw=black},
+    title label font=\small\bfseries,
+    bar label font=\small,
+    bar label node/.append style={align=right, text width=5cm},
+    bar/.style={fill=blue!35, rounded corners=2pt}
+  ]{1}{9}
+    \gantttitle{2026}{9} \\
+    \gantttitle{Mar.}{1}
+    \gantttitle{Abr.}{1}
+    \gantttitle{May.}{1}
+    \gantttitle{Jun.}{1}
+    \gantttitle{Jul.}{1}
+    \gantttitle{Ago.}{1}
+    \gantttitle{Sep.}{1}
+    \gantttitle{Oct.}{1}
+    \gantttitle{Nov.}{1} \\
+    \ganttbar{Recolección y preparación de videos de prueba}{6}{7} \\
+    \ganttbar{Desarrollo del módulo de carga y gestión de videos}{7}{7} \\
+    \ganttbar{Implementación de estimación de postura}{7}{8} \\
+    \ganttbar{Cálculo de variables del tren inferior}{8}{8} \\
+    \ganttbar{Detección de patrones de riesgo}{8}{9} \\
+    \ganttbar{Pruebas funcionales y ajustes del prototipo}{9}{9} \\
+    \ganttbar{Redacción final y correcciones}{8}{9} \\
+    \ganttbar{Preparación de presentación y defensa}{9}{9}
+  \end{ganttchart}
+  \caption{Diagrama de Gantt del proyecto, parte 2 (marzo--noviembre 2026).}
+  \label{fig:gantt-2}
+\end{figure}

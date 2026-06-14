@@ -11,7 +11,9 @@ aspectos pueden ser considerados para el análisis del movimiento. Por último, 
 tecnológicos que sustentan este proyecto, incluyendo inteligencia artificial aplicada al deporte, 
 visión por computadora, estimación de postura humana y aprendizaje automático aplicado al análisis de movimiento.
 
-\subsection{Lesiones deportivas en fútbol}
+\subsection{Conceptos médicos y deportivos}
+
+\subsubsection{Lesiones deportivas en fútbol}
 
 El fútbol, también conocido como soccer, es una disciplina que se caracteriza por una alta demanda física y de coordinación.
 Durante su práctica, los jugadores realizan acciones como carreras, saltos, aceleraciones, desaceleraciones, cambios bruscos de dirección y contacto físico. 
@@ -33,7 +35,7 @@ Además del impacto físico y deportivo, algunas lesiones pueden implicar perío
 y costos asociados al tratamiento y la rehabilitación. En este sentido, estos tratamientos pueden generar una carga económica relevante,
 debido a los costos médicos, la rehabilitación y el tiempo de inactividad deportiva \parencite{RossEtAl2023}.
 
-\subsection{Lesiones en el fútbol profesional argentino}
+\subsubsection{Lesiones en el fútbol profesional argentino}
 
 En Argentina, el fútbol ocupa un lugar destacado dentro de las prácticas deportivas y recreativas.
 Según la Encuesta Nacional sobre Actividad Física y Deporte 2023, el fútbol fue el deporte más
@@ -62,7 +64,7 @@ prolongados \parencite{BaezBanegasEtAl2024}.
 
 \input{tables/deportes_practicados}
 
-\subsection{Lesiones por torsión en el tren inferior}
+\subsubsection{Lesiones por torsión en el tren inferior}
 
 Las lesiones por torsión en el tren inferior se producen cuando una o varias articulaciones son
 sometidas a fuerzas rotacionales o a una combinación de cargas que superan su capacidad de
@@ -148,7 +150,7 @@ principal. En muchos casos, la fuerza proviene del propio movimiento del deporti
 reacción del suelo, de la desaceleración del cuerpo o de una posición articular desfavorable
 durante el apoyo \parencite{ShimokochiShultz2008}.
 
-\subsection{Biomecánica del movimiento en el fútbol}
+\subsubsection{Biomecánica del movimiento en el fútbol}
 
 La biomecánica del movimiento en el fútbol permite estudiar cómo se organizan los segmentos
 corporales y cómo actúan las fuerzas durante las acciones propias del juego. Su aplicación no
@@ -200,7 +202,7 @@ competencia \parencite{CossioBolanosArruda2009}. En este sentido, los métodos i
 pueden considerarse complementarios: los primeros favorecen el análisis en contextos reales de juego, 
 mientras que los segundos permiten obtener mediciones más controladas y precisas de determinadas variables
 
-\subsection{Prevención de lesiones mediante el análisis del movimiento}
+\subsubsection{Prevención de lesiones mediante el análisis del movimiento}
 
 La prevención de lesiones en el fútbol no depende únicamente de conocer cuáles son las lesiones
 más frecuentes, sino también de entender en qué situaciones y bajo qué patrones de movimiento
@@ -266,18 +268,57 @@ recurso complementario dentro de un enfoque más amplio, que también considere 
 entrenamiento, el historial de lesiones, la fatiga, la fuerza, la movilidad, el contexto de
 juego y la intervención profesional.
 
-\subsection{Inteligencia artificial aplicada al deporte}
+\subsection{Conceptos tecnológicos}
 
-Completar.
+\subsubsection{Inteligencia artificial, visión por computadora y estimación de postura humana}
 
-\subsection{Visión por computadora}
+La inteligencia artificial aplicada al deporte permite analizar datos provenientes de
+entrenamientos, competencias, sensores o videos con el objetivo de obtener información útil
+sobre el rendimiento, la técnica deportiva y posibles factores asociados al riesgo de lesión.
+En el campo de la biomecánica deportiva, su incorporación permite pasar de evaluaciones
+manuales o de laboratorio a enfoques más automatizados, capaces de procesar grandes volúmenes
+de datos y reconocer patrones complejos del movimiento humano \parencite{SouaifiEtAl2025}.
 
-Completar.
+Dentro de estas aplicaciones, la visión por computadora resulta especialmente relevante cuando
+la fuente de información es una imagen o un video. A partir de una secuencia de fotogramas, es
+posible analizar no solo una postura aislada, sino también la evolución temporal de un gesto
+deportivo. Esto resulta importante para el presente proyecto, ya que las acciones de riesgo en
+fútbol, como desaceleraciones, cambios de dirección, aterrizajes o apoyos monopodales, no
+dependen únicamente de una posición corporal puntual, sino de la forma en que el movimiento se
+desarrolla en el tiempo.
 
-\subsection{Estimación de postura humana}
+Una técnica central dentro de la visión por computadora es la estimación de postura humana, que
+permite identificar puntos clave del cuerpo, como cadera, rodillas, tobillos, hombros y pies.
+Los modelos de estimación de postura basados en \textit{machine learning}, como OpenPose,
+MediaPipe Pose, BlazePose o MoveNet, permiten obtener estos puntos a partir de imágenes o videos
+sin necesidad de marcadores físicos \parencite{RoggioEtAl2024}. Esta característica resulta
+adecuada para el alcance del proyecto, ya que permite plantear un sistema basado en videos
+capturados con cámaras convencionales o dispositivos móviles, sin requerir sensores corporales
+ni laboratorios de captura de movimiento.
 
-Completar.
+\subsubsection{Machine learning aplicado al análisis de movimiento}
 
-\subsection{Machine learning aplicado al análisis de movimiento}
+El \textit{machine learning} aplicado al análisis de movimiento permite transformar videos
+deportivos en datos estructurados sobre la postura y el desplazamiento del cuerpo. A partir de
+la estimación de postura humana, cada punto corporal puede representarse como una serie temporal
+de coordenadas. Esto permite calcular variables como alineación cadera-rodilla-tobillo, posición
+del pie, estabilidad del apoyo, ángulos articulares y variaciones del movimiento durante
+acciones deportivas.
 
-Completar.
+La captura de movimiento sin marcadores ni sensores físicos constituye un enfoque relevante para
+este tipo de análisis. \textcite{YomaEtAl2025} revisaron estudios sobre confiabilidad y validez
+de sistemas de captura de movimiento sin marcadores para medir la cinemática del tronco y de
+las extremidades inferiores durante tareas funcionales y deportivas, como caminar, correr,
+saltar, aterrizar y realizar cambios de dirección. Si bien se señala que estos sistemas todavía
+no son completamente equivalentes a los sistemas con marcadores, también destacan su utilidad
+para obtener mediciones confiables en contextos más ecológicos y accesibles que los laboratorios
+tradicionasles.
+
+\textcite{AsaedaEtAl2024} analizaron la confiabilidad y validez del cálculo del valgo dinámico
+de rodilla durante aterrizajes monopodales utilizando MediaPipe Pose. El estudio muestra que el
+cálculo absoluto del ángulo presenta limitaciones frente a sistemas tridimensionales de captura
+de movimiento, pero que el análisis del cambio del ángulo desde el contacto inicial puede
+resultar práctico si se normaliza correctamente. Este aporte es importante porque respalda la
+posibilidad de utilizar estimación de postura para observar patrones asociados al riesgo de
+lesión, pero también marca la necesidad de interpretar los resultados como indicadores de apoyo
+y no como mediciones clínicas absolutas.

@@ -13,12 +13,13 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {chapter}{\numberline {2}Antecedentes}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Marco teórico}{3}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Lesiones deportivas en fútbol}{3}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.1}Conceptos médicos y deportivos}{3}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}Lesiones deportivas en fútbol}{3}{subsubsection.2.1.1.1}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Lesiones en el fútbol profesional argentino}{4}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.1.2}Lesiones en el fútbol profesional argentino}{4}{subsubsection.2.1.1.2}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -27,7 +28,7 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Lesiones por torsión en el tren inferior}{5}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.1.3}Lesiones por torsión en el tren inferior}{5}{subsubsection.2.1.1.3}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -54,7 +55,7 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {subsection}{\numberline {2.1.4}Biomecánica del movimiento en el fútbol}{7}{subsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.1.4}Biomecánica del movimiento en el fútbol}{7}{subsubsection.2.1.1.4}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -67,7 +68,7 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {subsection}{\numberline {2.1.5}Prevención de lesiones mediante el análisis del movimiento}{8}{subsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.1.5}Prevención de lesiones mediante el análisis del movimiento}{8}{subsubsection.2.1.1.5}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -90,22 +91,20 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {subsection}{\numberline {2.1.6}Inteligencia artificial aplicada al deporte}{12}{subsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.1.7}Visión por computadora}{12}{subsection.2.1.7}%
-\contentsline {subsection}{\numberline {2.1.8}Estimación de postura humana}{12}{subsection.2.1.8}%
-\contentsline {subsection}{\numberline {2.1.9}Machine learning aplicado al análisis de movimiento}{13}{subsection.2.1.9}%
-\contentsline {chapter}{\numberline {3}Conclusi\'on}{14}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Resumen de aportes}{14}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Trabajo futuro}{14}{section.3.2}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{14}{section*.7}%
+\contentsline {subsection}{\numberline {2.1.2}Conceptos tecnológicos}{12}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.2.1}Inteligencia artificial, visión por computadora y estimación de postura humana}{12}{subsubsection.2.1.2.1}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2.2}Machine learning aplicado al análisis de movimiento}{13}{subsubsection.2.1.2.2}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {3}Estado del arte}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Competencia de mercado}{15}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}VueMotion}{15}{subsection.3.1.1}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -114,6 +113,7 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Zone7}{16}{subsection.3.1.2}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -124,22 +124,27 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\contentsline {subsection}{\numberline {3.1.3}Kitman Labs}{17}{subsection.3.1.3}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\contentsline {subsection}{\numberline {3.1.4}Catapult}{17}{subsection.3.1.4}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {3.2}Herramientas institucionales}{18}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}NFL Digital Athlete}{18}{subsection.3.2.1}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {3.3}Estudios y trabajos realizados}{19}{section.3.3}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -152,6 +157,8 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Conclusión}{21}{subsection.3.3.1}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{22}{subsection.3.3.1}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
@@ -212,12 +219,167 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{Anexo}{17}{chapter*.8}%
-\contentsline {section}{Anexo A: Cronograma de actividades}{18}{appendix*.9}%
-\contentsline {section}{Anexo B: Resultados de la encuesta}{19}{appendix*.10}%
-\contentsline {section}{Anexo C: Transcripción de la entrevista a Sebastián López}{20}{appendix*.11}%
-\contentsline {section}{Anexo D: Transcripción de la entrevista a Leonardo Lemos}{24}{appendix*.12}%
-\contentsline {section}{Anexo E: Transcripción de la entrevista a Gonzalo Pereyra Metnyk}{28}{appendix*.13}%
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Anexo}{27}{chapter*.7}%
+\contentsline {section}{Anexo A: Cronograma de actividades}{28}{appendix*.8}%
+\contentsline {section}{Anexo B: Transcripción de la entrevista a Sebastián López}{30}{appendix*.11}%
+\contentsline {section}{Anexo C: Transcripción de la entrevista a Leonardo Lemos}{34}{appendix*.12}%
+\contentsline {section}{Anexo D: Transcripción de la entrevista a Gonzalo Pereyra Metnyk}{38}{appendix*.13}%
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
